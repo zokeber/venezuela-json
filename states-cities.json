@@ -8,7 +8,6 @@
 	{"ciudad" : "San Carlos de Río Negro","municipio" : "Río Negro","parroquias" : ["Casiquiare", "Cocuy","Solano"] }
 
 ]}
-
 { "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudades" : [
 	{ "ciudad" : "Anaco","municipio" : "Anaco","parroquias" : ["Anaco","San Joaquín"] },
 	{ "ciudad" : "Aragua De Barcelona","municipio" :"Aragua", "parroquias" : ["Cachipo","Aragua de Barcelona"] },
@@ -17,7 +16,7 @@
 	{ "ciudad" : "Puerto Píritu", "municipio" : "Peñalver", "parroquias" : ["Puerto Píritu","San Miguel","Sucre"] },
 	{ "ciudad" : "Valle de Guanape", "municipio" : "Francisco del Carmen Carvajal ", "parroquias" : ["Valle de Guanape","Santa Bárbara"] },
 	{ "ciudad" : "El Chaparro", "municipio" : "General Sir Arthur McGregor", "parroquias" : ["El Chaparro","Tomás Alfaro","Calatrava"] },
-	{ "ciudad" : "Guanta)", "municipio" : "Guanta", "parroquias" : ["Chorrerón","Guanta"] },
+	{ "ciudad" : "Guanta", "municipio" : "Guanta", "parroquias" : ["Chorrerón","Guanta"] },
 	{ "ciudad" : "Soledad", "municipio" : "Independencia", "parroquias" : ["Mamo","Soledad"] },
 	{ "ciudad" : "Mapire", "municipio" : "José Gregorio Monagas Monagas", "parroquias" : ["Mapire","Piar","Santa Clara","San Diego de Cabrutica","Uverito","Zuata"] },
 	{ "ciudad" : "Puerto La Cruz", "municipio" : "Juan Antonio Sotillo", "parroquias" : ["Pozuelos","Puerto la Cruz"] },
@@ -32,13 +31,32 @@
 	{ "ciudad" : "Barcelona", "municipio" : "Simón Bolívar", "parroquias" : ["Bergatín","Caigua","El Carmen","El Pilar","Naricual","San Cristobal"] },
 	{ "ciudad" : "El Tigre", "municipio" : "Simón Rodriguez", "parroquias" : ["Edmundo Barrios","Miguel Otero Silva"] }
 ] }
-
 { "iso31662" : "VE-C", "estado" : "Apure", "ciudades" : [
-	{ "ciudad" : "Achaguas", "municipio" : "Achaguas", "parroquias" : ["Achaguas","Apurito","El Yagual","Guachara","Mucuritas","Queseras del Medio"] }
-	{ "ciudad" : "Biruaca", "municipio" : "Biruaca", "parroquias" : ["Biruaca"] }
-	{ "ciudad" : "Bruzual", "municipio" : "Muñoz", "parroquias" : ["Bruzual","Mantecal","Quintero","Rincón Hondo","San Vicente"] }
-	{ "ciudad" : "Guasdualito", "municipio" : "Páez", "parroquias" : ["Guasdualito","Aramendi","El Amparo","San Camilo","Urdaneta"] }
-	{ "ciudad" : "San Juan de Payara", "municipio" : "Pedro Camejo", "parroquias" : ["San Juan de Payara","Codazzi","Cunaviche"] }
-	{ "ciudad" : "Elorza", "municipio" : "Rómulo Gallegos", "parroquias" : ["La Trinidad","Elorza"] }
-	{ "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"] }
+	{ "ciudad" : "Achaguas", "municipio" : "Achaguas", "parroquias" : ["Achaguas","Apurito","El Yagual","Guachara","Mucuritas","Queseras del Medio"] },
+	{ "ciudad" : "Biruaca", "municipio" : "Biruaca", "parroquias" : ["Biruaca"] },
+	{ "ciudad" : "Bruzual", "municipio" : "Muñoz", "parroquias" : ["Bruzual","Mantecal","Quintero","Rincón Hondo","San Vicente"] },
+	{ "ciudad" : "Guasdualito", "municipio" : "Páez", "parroquias" : ["Guasdualito","Aramendi","El Amparo","San Camilo","Urdaneta"] },
+	{ "ciudad" : "San Juan de Payara", "municipio" : "Pedro Camejo", "parroquias" : ["San Juan de Payara","Codazzi","Cunaviche"] },
+	{ "ciudad" : "Elorza", "municipio" : "Rómulo Gallegos", "parroquias" : ["La Trinidad","Elorza"] },
+	{ "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"] },
+]}
+{ "iso31662" : "VE-C", "estado" : "Aragua", "ciudades" : [
+	{ "ciudad" : "Maracay", "municipio" : "Atanasio Girardot", "parroquias" : ["Pedro José Ovalles","Joaquín Crespo","José Casanova Godoy","Madre María de San José","Andrés Eloy Blanco","Los Tacarigua","Las Delicias","Choroní"] },
+	{ "ciudad" : "San Mateo", "municipio" : "Bolívar", "parroquias" : ["Bolívar"] },
+	{ "ciudad" : "Camatagua", "municipio" : "Camatagua", "parroquias" : ["Camatagua","Carmen de Cura"] },
+	{ "ciudad" : "Santa Rita", "municipio" : "Francisco Linares Alcántara", "parroquias" : ["Santa Rita","Francisco de Miranda","Moseñor Feliciano González" }
+	{ "ciudad" : "Santa Cruz de Aragua", "municipio" : "José Ángel Lamas", "parroquias" : ["Santa Cruz"] },
+	{ "ciudad" : "La Victoria", "municipio" : "José Félix Ribas", "parroquias" : ["José Félix Ribas","Castor Nieves Ríos","Las Guacamayas","Pao de Zárate","Zuata"] },
+	{ "ciudad" : "El Consejo", "municipio" : "José Rafael Revenga", "parroquias" : ["José Rafael Revenga"] },
+	{ "ciudad" : "Palo Negro", "municipio" : "Libertador", "parroquias" : ["Libertador","San Martín de Porres"] },
+	{ "ciudad" : "El Limón", "municipio" : "Mario Briceño Iragorry", "parroquias" : ["El Limón","Caña de Azúcar"] },
+	{ "ciudad" : "Ocumare de la Costa", "municipio" : "Ocumare de la Costa de Oro", "parroquias" : ["Ocumare de la Costa"] },
+	{ "ciudad" : "San Casimiro", "municipio" : "San Casimiro", "parroquias" : ["San Casimiro","Güiripa","Ollas de Caramacate","Valle Morín"] },
+	{ "ciudad" : "San Sebastián de Los Reyes", "municipio" : "San Sebastián", "parroquias" : ["San Sebastían"] },
+	{ "ciudad" : "Turmero", "municipio" : "Santiago Mariño", "parroquias" : ["Turmero","Arevalo Aponte","Chuao","Samán de Güere","Alfredo Pacheco Miranda"] },
+	{ "ciudad" : "Santos Michelena", "municipio" : "Las Tejerías", "parroquias" : ["Santos Michelena","Tiara"] },
+	{ "ciudad" : "Cagua", "municipio" : "Sucre", "parroquias" : ["Cagua","Bella Vista"] },
+	{ "ciudad" : "Colonia Tovar", "municipio" : "Tovar", "parroquias" : ["Tovar"] },
+	{ "ciudad" : "Barbacoas", "municipio" : "Urdaneta", "parroquias" : ["Las Peñitas","Urdaneta","San Francisco de Cara","Taguay"] },
+	{ "ciudad" : "Villa de Cura", "municipio" : "Zamora", "parroquias" : ["Zamora","Magdaleno","San Francisco de Asís","Valles de Tucutunemo","Augusto Mijares"] }
 ]}
