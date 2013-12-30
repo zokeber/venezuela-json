@@ -5,10 +5,33 @@
 { "iso31662" : "VE-X", "estado" : "Amazonas", "ciudad" : "San Juan de Manapiare", "municipio" : "Manapiare", "parroquias" : ["Alto Ventuari Cacurí","Medio Ventuari Manami","Bajo Ventuari Marueta"]}
 { "iso31662" : "VE-X", "estado" : "Amazonas", "ciudad" : "Maroa", "municipio" : "Maroa", "parroquias" : ["Victorino", "Comunidad"]}
 { "iso31662" : "VE-X", "estado" : "Amazonas", "ciudad" : "San Carlos de Río Negro", "municipio" : "Río Negro", "parroquias" : ["Casiquiare", "Cocuy","Solano"]}
+
 { "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Anaco", "municipio" : "Anaco", "parroquias" : ["Anaco","San Joaquín"]}
 { "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Aragua De Barcelona", "municipio" : "Aragua", "parroquias" : ["Cachipo","Aragua de Barcelona"]}
-{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Barcelona", "municipio" : "Simón Bolívar", "parroquias" : ["Bergatín", "Caigua", "El Carmen", "El Pilar", "Naricual", "San Cristóbal"]}
-{ "iso31662" : "VE-", "estado" : "Bolivar", "ciudad" : "Ciudad Bolívar", "municipio" : "Heres", "parroquias" : ["Agua Salada","Catedral","José Antonio Páez","La Sabanita","Marhuanta","Orinoco","Panapana","Vista Hermosa","Zea"]}
-{ "iso31662" : "VE-", "estado" : "Bolivar", "ciudad" : "Ciudad Guayana", "municipio" : "Heres", "parroquias" : [""] }
-{ "iso31662" : "VE-", "estado" : "Bolivar", "ciudad" : "Puerto Ordaz", "municipio" : "Caroní", "parroquias" : [""] }
-{ "iso31662" : "VE-", "estado" : "Bolivar", "ciudad" : "San Felix", "municipio" : "Caroní", "parroquias" : [""] }
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Clarines", "municipio" : "Manuel Ezequiel Bruzual", "parroquias" : ["Guanape","Clarines","Sabana de Uchire"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Lechería", "municipio" : "Diego Bautista Urbaneja", "parroquias" : ["Lechería","El Morro"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Puerto Píritu", "municipio" : "Peñalver", "parroquias" : ["Puerto Píritu","San Miguel","Sucre"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Valle de Guanape", "municipio" : "Francisco del Carmen Carvajal ", "parroquias" : ["Valle de Guanape","Santa Bárbara"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "El Chaparro", "municipio" : "General Sir Arthur McGregor", "parroquias" : ["El Chaparro","Tomás Alfaro","Calatrava"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Guanta)", "municipio" : "Guanta", "parroquias" : ["Chorrerón","Guanta"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Soledad", "municipio" : "Independencia", "parroquias" : ["Mamo","Soledad"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Mapire", "municipio" : "José Gregorio Monagas Monagas", "parroquias" : ["Mapire","Piar","Santa Clara","San Diego de Cabrutica","Uverito","Zuata"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Puerto La Cruz", "municipio" : "Juan Antonio Sotillo", "parroquias" : ["Pozuelos","Puerto la Cruz"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Onoto", "municipio" : "Juan Manuel Cajigal", "parroquias" : ["San Pablo","Onoto"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "San Mateo", "municipio" : "Libertad", "parroquias" : ["San Mateo","El Carito","Santa Inés","La Romereña"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Pariaguán", "municipio" : "Francisco de Miranda", "parroquias" : ["Atapirire","Boca del Pao","El Pao","Pariguán"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Cantaura", "municipio" : "Pedro María Freites", "parroquias" : ["Cantaura","Libertador","Santa Rosa","Urica"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Píritu", "municipio" : "Píritu", "parroquias" : ["San Francisco","San Francisco"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "San José de Guanipa", "municipio" : "San José de Guanipa", "parroquias" : ["San José de Guanipa"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Boca de Uchire", "municipio" : "San Juan de Capistrano", "parroquias" : ["Boca de Uchire","Boca de Chávez"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Santa Ana", "municipio" : "Santa Ana", "parroquias" : ["Pueblo Nuevo","Santa Ana"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "Barcelona", "municipio" : "Simón Bolívar", "parroquias" : ["Bergatín","Caigua","El Carmen","El Pilar","Naricual","San Cristobal"]}
+{ "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudad" : "El Tigre", "municipio" : "Simón Rodriguez", "parroquias" : ["Edmundo Barrios","Miguel Otero Silva"]}
+
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "Achaguas", "municipio" : "Achaguas", "parroquias" : ["Achaguas","Apurito","El Yagual","Guachara","Mucuritas","Queseras del Medio"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "Biruaca", "municipio" : "Biruaca", "parroquias" : ["Biruaca"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "Bruzual", "municipio" : "Muñoz", "parroquias" : ["Bruzual","Mantecal","Quintero","Rincón Hondo","San Vicente"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "Guasdualito", "municipio" : "Páez", "parroquias" : ["Guasdualito","Aramendi","El Amparo","San Camilo","Urdaneta"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "San Juan de Payara", "municipio" : "Pedro Camejo", "parroquias" : ["San Juan de Payara","Codazzi","Cunaviche"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "Elorza", "municipio" : "Rómulo Gallegos", "parroquias" : ["La Trinidad","Elorza"]}
+{ "iso31662" : "VE-C", "estado" : "Apure", "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"]}
