@@ -6,10 +6,9 @@ Venezuela states, cities, municipalities and parishes in format JSON for MongoDB
 ### MongoDB import
 
 For importing JSON data into MongoDB, please use:
+
 ```bash
-
 mongoimport --jsonArray --db your_ddatabase --collection your_collection --type json --file states-cities.json
-
 ```
 
 ### Reference
