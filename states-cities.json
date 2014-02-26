@@ -1,13 +1,12 @@
 { "iso31662" : "VE-X", "estado" : "Amazonas", "ciudades" : [
-	{"ciudad": "La Esmeralda","municipio" : "Alto Orinoco","parroquias" : ["Alto Orinoco La Esmeralda","Huachamacare Acanaña","Marawaka Toky Shamanaña","Mavaka Mavaka","Sierra Parima Parimabé" ] },
+	{"ciudad" : "La Esmeralda","municipio" : "Alto Orinoco","parroquias" : ["Alto Orinoco La Esmeralda","Huachamacare Acanaña","Marawaka Toky Shamanaña","Mavaka Mavaka","Sierra Parima Parimabé" ] },
 	{"ciudad" : "Puerto Ayacucho","municipio" : "Atures","parroquias" : ["Fernando Girón Tovar","Luis Alberto Gómez", "Pahueña", "Platanillal"] },
 	{"ciudad" : "San Fernando de Atabapo","municipio" : "Atabapo","parroquias" : ["Ucata Laja Lisa", "Yapacana Macuruco", "Caname Guarinuma"] },
 	{"ciudad" : "Isla Ratón","municipio" : "Autana","parroquias" : ["Samariapo Samariapo","Sipapo Pendare","Munduapo Munduapo","Guayapo San Pedro del Orinoco"] },
 	{"ciudad" : "San Juan de Manapiare","municipio" : "Manapiare","parroquias" : ["Alto Ventuari Cacurí","Medio Ventuari Manami","Bajo Ventuari Marueta"] },
 	{"ciudad" : "Maroa","municipio" : "Maroa","parroquias" : ["Victorino", "Comunidad"] },
 	{"ciudad" : "San Carlos de Río Negro","municipio" : "Río Negro","parroquias" : ["Casiquiare", "Cocuy","Solano"] }
-
-]}
+]},
 { "iso31662" : "VE-B", "estado" : "Anzoategui", "ciudades" : [
 	{ "ciudad" : "Anaco","municipio" : "Anaco","parroquias" : ["Anaco","San Joaquín"] },
 	{ "ciudad" : "Aragua De Barcelona","municipio" :"Aragua", "parroquias" : ["Cachipo","Aragua de Barcelona"] },
@@ -26,11 +25,11 @@
 	{ "ciudad" : "Cantaura", "municipio" : "Pedro María Freites", "parroquias" : ["Cantaura","Libertador","Santa Rosa","Urica"] },
 	{ "ciudad" : "Píritu", "municipio" : "Píritu", "parroquias" : ["San Francisco","San Francisco"] },
 	{ "ciudad" : "San José de Guanipa", "municipio" : "San José de Guanipa", "parroquias" : ["San José de Guanipa"] },
-	{ "ciudad" : "Boca de Uchire", "municipio" : "San Juan de Capistrano", "parroquias" : ["Boca de Uchire","Boca de Chávez"] }
+	{ "ciudad" : "Boca de Uchire", "municipio" : "San Juan de Capistrano", "parroquias" : ["Boca de Uchire","Boca de Chávez"] },
 	{ "ciudad" : "Santa Ana", "municipio" : "Santa Ana", "parroquias" : ["Pueblo Nuevo","Santa Ana"] },
 	{ "ciudad" : "Barcelona", "municipio" : "Simón Bolívar", "parroquias" : ["Bergatín","Caigua","El Carmen","El Pilar","Naricual","San Cristobal"] },
 	{ "ciudad" : "El Tigre", "municipio" : "Simón Rodriguez", "parroquias" : ["Edmundo Barrios","Miguel Otero Silva"] }
-] }
+]},
 { "iso31662" : "VE-C", "estado" : "Apure", "ciudades" : [
 	{ "ciudad" : "Achaguas", "municipio" : "Achaguas", "parroquias" : ["Achaguas","Apurito","El Yagual","Guachara","Mucuritas","Queseras del Medio"] },
 	{ "ciudad" : "Biruaca", "municipio" : "Biruaca", "parroquias" : ["Biruaca"] },
@@ -38,13 +37,13 @@
 	{ "ciudad" : "Guasdualito", "municipio" : "Páez", "parroquias" : ["Guasdualito","Aramendi","El Amparo","San Camilo","Urdaneta"] },
 	{ "ciudad" : "San Juan de Payara", "municipio" : "Pedro Camejo", "parroquias" : ["San Juan de Payara","Codazzi","Cunaviche"] },
 	{ "ciudad" : "Elorza", "municipio" : "Rómulo Gallegos", "parroquias" : ["La Trinidad","Elorza"] },
-	{ "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"] },
-]}
+	{ "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"] }
+]},
 { "iso31662" : "VE-C", "estado" : "Aragua", "ciudades" : [
 	{ "ciudad" : "Maracay", "municipio" : "Atanasio Girardot", "parroquias" : ["Pedro José Ovalles","Joaquín Crespo","José Casanova Godoy","Madre María de San José","Andrés Eloy Blanco","Los Tacarigua","Las Delicias","Choroní"] },
 	{ "ciudad" : "San Mateo", "municipio" : "Bolívar", "parroquias" : ["Bolívar"] },
 	{ "ciudad" : "Camatagua", "municipio" : "Camatagua", "parroquias" : ["Camatagua","Carmen de Cura"] },
-	{ "ciudad" : "Santa Rita", "municipio" : "Francisco Linares Alcántara", "parroquias" : ["Santa Rita","Francisco de Miranda","Moseñor Feliciano González" }
+	{ "ciudad" : "Santa Rita", "municipio" : "Francisco Linares Alcántara", "parroquias" : ["Santa Rita","Francisco de Miranda","Moseñor Feliciano González"] },
 	{ "ciudad" : "Santa Cruz de Aragua", "municipio" : "José Ángel Lamas", "parroquias" : ["Santa Cruz"] },
 	{ "ciudad" : "La Victoria", "municipio" : "José Félix Ribas", "parroquias" : ["José Félix Ribas","Castor Nieves Ríos","Las Guacamayas","Pao de Zárate","Zuata"] },
 	{ "ciudad" : "El Consejo", "municipio" : "José Rafael Revenga", "parroquias" : ["José Rafael Revenga"] },
