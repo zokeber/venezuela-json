@@ -39,7 +39,7 @@
 	{ "ciudad" : "Elorza", "municipio" : "Rómulo Gallegos", "parroquias" : ["La Trinidad","Elorza"] },
 	{ "ciudad" : "San Fernando de Apure", "municipio" : "San Fernando", "parroquias" : ["El Recreo","San Fernando","Peñalver","San Rafael de Atamaica"] }
 ]}
-{ "iso31662" : "VE-C", "estado" : "Aragua", "ciudades" : [
+{ "iso31662" : "VE-D", "estado" : "Aragua", "ciudades" : [
 	{ "ciudad" : "Maracay", "municipio" : "Atanasio Girardot", "parroquias" : ["Pedro José Ovalles","Joaquín Crespo","José Casanova Godoy","Madre María de San José","Andrés Eloy Blanco","Los Tacarigua","Las Delicias","Choroní"] },
 	{ "ciudad" : "San Mateo", "municipio" : "Bolívar", "parroquias" : ["Bolívar"] },
 	{ "ciudad" : "Camatagua", "municipio" : "Camatagua", "parroquias" : ["Camatagua","Carmen de Cura"] },
@@ -58,4 +58,31 @@
 	{ "ciudad" : "Colonia Tovar", "municipio" : "Tovar", "parroquias" : ["Tovar"] },
 	{ "ciudad" : "Barbacoas", "municipio" : "Urdaneta", "parroquias" : ["Las Peñitas","Urdaneta","San Francisco de Cara","Taguay"] },
 	{ "ciudad" : "Villa de Cura", "municipio" : "Zamora", "parroquias" : ["Zamora","Magdaleno","San Francisco de Asís","Valles de Tucutunemo","Augusto Mijares"] }
+]}
+{ "iso31662" : "VE-E", "estado" : "Barinas", "ciudades" : [
+    { "ciudad" : "Sabaneta", "municipio" : "Alberto Arvelo Torrealba" , "parroquias" : ["Sabaneta", "Juan Antonio Rdoriguez Domínguez"] },
+    { "ciudad" : "El Cantón", "municipio" : "Andrés Eloy Blanco" , "parroquias" : ["El Cantón", "Santa Cruz de Guacas", "Puerto Vivas"] },
+    { "ciudad" : "Socopó", "municipio" : "Antonio José de Sucre", "parroquias" : ["Ticoporo", "Nicolás Pulido", "Andrés Bello"] },
+    { "ciudad" : "Arismendi", "municipio" : "Arismendi", "parroquias" : ["Arismendi", "Guadarrama", "La Unión", "San Antonio"] },
+    { "ciudad" : "Barinas", "municipio" : "Barinas", "parroquias" : ["Barinas", "Alfredo Arvelo Larriva", "San Silvestre", "Santa Inés", "Santa Lucía", "Torunos", "EL Carmen", "Rómulo Betancourt", "Corazón de Jesús", "Ramón Ignacio Méndez", "Alto Barinas", "Manuel Palacio Fajardo", "Juan Antonio Rodríguez Domínguez", "Dominga Ortiz de Páez" ] },
+    { "ciudad" : "Barinitas", "municipio" : "Bolívar", "parroquias" : ["Barinitas", "Altamira de Cáceres", "Calderas"] },
+    { "ciudad" : "Barrancas", "municipio" : "Cruz Paredes", "parroquias" : ["Barrancas", "El Socorro", "Masparrito"] },
+    { "ciudad" : "Santa Bárbara", "municipio" : "Ezequiel Zamora", "parroquias" : ["Santa Bárbara", "Pedro Briceño Méndez", "Ramón Ignacio Méndez", "José Ignacio del Pumar"] },
+    { "ciudad" : "Obispos", "municipio": "Obispos", "parroquias": ["Obispos", "Guasimitos", "El Real", "La Luz"] },
+    { "ciudad" : "Ciudad Bolivia", "municipio" : "Pedraza", "parroquias" : ["Ciudad Bolivia", "Ignacio Briceño", "José Félix Ribas", "Páez"] },
+    { "ciudad" : "Libertad", "municipio" : "Rojas", "parroquias" : ["Libertad (Libertad)", "Dolores (Dolores)", "Santa Rosa (Santa Rosa)", "Simón Rodríguez(Arauquita)", "Palacio Fajardo (Mijagual)"] },
+    { "ciudad" : "Ciudad de Nutrias", "municipio" : "Sosa", "parroquias": ["Ciudad de Nutrias", "El Regalo", "Puerto Nutrias", "Santa Catalina", "Simón Bolívar"] }
+]}
+{ "iso31662" : "VE-F", "estado" : "Bolívar", "ciudades" : [
+    { "ciudad" : "Ciudad Guayana" , "municipio" : "Caroní" , "parroquias" : ["Cachamay", "Chirica", "Dalla Costa", "11 de Abril", "Simón Bolívar", "Unare", "Universidad", "Vista al Sol", "Pozo Verde", "Yocoima", "5 de Julio"] },
+    { "ciudad" : "Caicara del Orinoco" , "municipio" : "Cedeño" , "parroquias" : ["Cedeño", "Altagracia", "Ascensión Farreras", "Guaniamo", "La Urbana", "Pijiguaos"] },
+    { "ciudad" : "El Callao" , "municipio" : "El Callao" , "parroquias" : ["El Callao"] },
+    { "ciudad" : "Santa Elena de Uairén" , "municipio" : "Gran Sabana" , "parroquias" : ["Gran Sabana", "Ikabarú"] },
+    { "ciudad" : "Ciudad Bolívar" , "municipio" : "Heres" , "parroquias" : ["Catedral", "Zea" , "Orinoco", "José Antonio Paez", "Marhuanta", "Agua Salada", "Vista Hermosa", "La Sabanita", "Panapana"] },
+    { "ciudad" : "El Palmar" , "municipio" : "Padre Pedro Chien" , "parroquias" : ["Padre Pedro Chien", "Río Grande"] },
+    { "ciudad" : "Upata" , "municipio" : "Piar" , "parroquias" : ["Andrés Eloy Blanco", "Pedro Cova"] },
+    { "ciudad" : "Ciudad Piar" , "municipio" : "Angostura (Raúl Leoni)" , "parroquias" : ["Raúl Leoni", "Barceloneta", "Santa Bárbara", "San Francisco"] },
+    { "ciudad" : "Guasipati" , "municipio" : "Roscio" , "parroquias" : ["Roscio", "Salóm"] },
+    { "ciudad" : "Tumeremo" , "municipio" : "Sifontes" , "parroquias" : ["Sifontes", "Dalla Costa", "San Isidro"] },
+    { "ciudad" : "Maripa" , "municipio" : "Sucre" , "parroquias" : ["Sucre", "Aripao", "Guarataro", "Las Majadas", "Moitaco"] }
 ]}
