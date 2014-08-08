@@ -167,6 +167,391 @@
         ]
     },
     {
+        "iso_3166-2": "VE-E",
+        "estado": "Barinas",
+        "id_estado": 5,
+        "municipios": [
+            {
+                "municipio": "Alberto Arvelo Torrealba",
+                "capital": "Sabaneta",
+                "parroquias": [
+                    "Sabaneta",
+                    "Juan Antonio Rodríguez Domínguez"
+                ]
+            },
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "capital": "El Cantón",
+                "parroquias": [
+                    "El Cantón",
+                    "Santa Cruz de Guacas",
+                    "Puerto Vivas"
+                ]
+            },
+            {
+                "municipio": "Antonio José de Sucre",
+                "capital": "Socopó",
+                "parroquias": [
+                    "Ticoporo",
+                    "Nicolás Pulido",
+                    "Andrés Bello"
+                ]
+            },
+            {
+                "municipio": "Arismendi",
+                "capital": "Arismendi",
+                "parroquias": [
+                    "Arismendi",
+                    "Guadarrama",
+                    "La Unión",
+                    "San Antonio"
+                ]
+            },
+            {
+                "municipio": "Barinas",
+                "capital": "Barinas",
+                "parroquias": [
+                    "Barinas",
+                    "Alberto Arvelo Larriva",
+                    "San Silvestre",
+                    "Santa Inés",
+                    "Santa Lucía",
+                    "Torunos",
+                    "El Carmen",
+                    "Rómulo Betancourt",
+                    "Corazón de Jesús",
+                    "Ramón Ignacio Méndez",
+                    "Alto Barinas",
+                    "Manuel Palacio Fajardo",
+                    "Juan Antonio Rodríguez Domínguez",
+                    "Dominga Ortiz de Páez"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Barinitas",
+                "parroquias": [
+                    "Barinitas",
+                    "Altamira de Cáceres",
+                    "Calderas"
+                ]
+            },
+            {
+                "municipio": "Cruz Paredes",
+                "capital": "Barrancas",
+                "parroquias": [
+                    "Barrancas",
+                    "El Socorro",
+                    "Mazparrito"
+                ]
+            },
+            {
+                "municipio": "Ezequiel Zamora",
+                "capital": "Santa Bárbara",
+                "parroquias": [
+                    "Santa Bárbara",
+                    "Pedro Briceño Méndez",
+                    "Ramón Ignacio Méndez",
+                    "José Ignacio del Pumar"
+                ]
+            },
+            {
+                "municipio": "Obispos",
+                "capital": "Obispos",
+                "parroquias": [
+                    "Obispos",
+                    "Los Guasimitos",
+                    "El Real",
+                    "La Luz"
+                ]
+            },
+            {
+                "municipio": "Pedraza",
+                "capital": "Ciudad Bolivia",
+                "parroquias": [
+                    "Ciudad Bolívia",
+                    "José Ignacio Briceño",
+                    "José Félix Ribas",
+                    "Páez"
+                ]
+            },
+            {
+                "municipio": "Rojas",
+                "capital": "Libertad",
+                "parroquias": [
+                    "Libertad",
+                    "Dolores",
+                    "Santa Rosa",
+                    "Palacio Fajardo",
+                    "Simón Rodríguez"
+                ]
+            },
+            {
+                "municipio": "Sosa",
+                "capital": "Ciudad de Nutrias",
+                "parroquias": [
+                    "Ciudad de Nutrias",
+                    "El Regalo",
+                    "Puerto Nutrias",
+                    "Santa Catalina",
+                    "Simón Bolívar"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Barinas",
+            "Barinitas",
+            "Barrancas",
+            "Calderas",
+            "Capitanejo",
+            "Ciudad Bolivia",
+            "El Cantón",
+            "Las Veguitas",
+            "Libertad de Barinas",
+            "Sabaneta",
+            "Santa Bárbara de Barinas",
+            "Socopó"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-F",
+        "estado": "Bolívar",
+        "id_estado": 6,
+        "municipios": [
+            {
+                "municipio": "Angostura",
+                "capital": "Ciudad Píar",
+                "parroquias": [
+                    "Raúl Leoni",
+                    "Barceloneta",
+                    "Santa Bárbara",
+                    "San Francisco"
+                ]   
+            },
+            {
+                "municipio": "Caroní",
+                "capital": "Ciudad Guayana",
+                "parroquias": [
+                    "Cachamay",
+                    "Chirica",
+                    "Dalla Costa",
+                    "Once de Abril",
+                    "Simón Bolívar",
+                    "Unare",
+                    "Universidad",
+                    "Vista al Sol",
+                    "Pozo Verde",
+                    "Yocoima",
+                    "5 de Julio"
+                ]   
+            },
+            {
+                "municipio": "Cedeño",
+                "capital": "Caicara del Orinoco",
+                "parroquias": [
+                    "Cedeño",
+                    "Altagracia",
+                    "Ascensión Farreras",
+                    "Guaniamo",
+                    "La Urbana",
+                    "Pijiguaos"
+                ]   
+            },
+            {
+                "municipio": "El Callao",
+                "capital": "El Callao",
+                "parroquias": [
+                    "El Callao"
+                ]   
+            },
+            {
+                "municipio": "Gran Sabana",
+                "capital": "Santa Elena de Uairén",
+                "parroquias": [
+                    "Gran Sabana",
+                    "Ikabarú"
+                ]   
+            },
+            {
+                "municipio": "Heres",
+                "capital": "Ciudad Bolívar",
+                "parroquias": [
+                    "Catedral",
+                    "Zea",
+                    "Orinoco",
+                    "José Antonio Páez",
+                    "Marhuanta",
+                    "Agua Salada",
+                    "Vista Hermosa",
+                    "La Sabanita",
+                    "Panapana"
+                ]   
+            },
+            {
+                "municipio": "Píar",
+                "capital": "Upata",
+                "parroquias": [
+                    "Andrés Eloy Blanco",
+                    "Pedro Cova"
+                ]   
+            },
+            {
+                "municipio": "Roscio",
+                "capital": "Guasipati",
+                "parroquias": [
+                    "Roscio",
+                    "Salóm"
+                ]   
+            },
+            {
+                "municipio": "Sifontes",
+                "capital": "El Dorado",
+                "parroquias": [
+                    "Sifontes",
+                    "Dalla Costa",
+                    "San Isidro"
+                ]   
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Maripa",
+                "parroquias": [
+                    "Sucre",
+                    "Aripao",
+                    "Guarataro",
+                    "Las Majadas",
+                    "Moitaco"
+                ]   
+            },
+            {
+                "municipio": "Padre Pedro Chien",
+                "capital": "El Palmar",
+                "parroquias": [
+                    "Padre Pedro Chien",
+                    "Río Grande"
+                ]  
+            }
+        ],
+        "ciudades": [
+            "Caicara del Orinoco",
+            "Canaima",
+            "Ciudad Bolívar",
+            "Ciudad Piar",
+            "El Callao",
+            "El Dorado",
+            "El Manteco",
+            "El Palmar",
+            "El Pao",
+            "Guasipati",
+            "Guri",
+            "La Paragua",
+            "Matanzas",
+            "Puerto Ordaz",
+            "San Félix",
+            "Santa Elena de Uairén",
+            "Tumeremo",
+            "Unare",
+            "Upata"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-H",
+        "estado": "Cojedes",
+        "id_estado": 8,
+        "municipios": [
+            {
+                "municipio": "Anzoátegui",
+                "capital": "Cojedes",
+                "parroquias": [
+                    "Cojedes",
+                    "Juan de Mata Suárez"
+                ]
+            },
+            {
+                "municipio": "Tinaquillo",
+                "capital": "Tinaquillo",
+                "parroquias": [
+                    "Tinaquillo"
+                ]
+            },
+            {
+                "municipio": "Girardot",
+                "capital": "El Baúl",
+                "parroquias": [
+                    "El Baúl",
+                    "Sucre"
+                ]
+            },
+            {
+                "municipio": "Lima Blanco",
+                "capital": "Macapo",
+                "parroquias": [
+                    "La Aguadita",
+                    "Macapo"
+                ]
+            },
+            {
+                "municipio": "Pao de San Juan Bautista",
+                "capital": "El Pao",
+                "parroquias": [
+                    "El Pao"
+                ]
+            },
+            {
+                "municipio": "Ricaurte",
+                "capital": "Libertad",
+                "parroquias": [
+                    "El Amparo",
+                    "Libertad de Cojedes"
+                ]
+            },
+            {
+                "municipio": "Rómulo Gallegos",
+                "capital": "Las Vegas",
+                "parroquias": [
+                    "Rómulo Gallegos"
+                ]
+            },
+            {
+                "municipio": "San Carlos",
+                "capital": "San Carlos",
+                "parroquias": [
+                    "San Carlos de Austria",
+                    "Juan Ángel Bravo",
+                    "Manuel Manrique"
+                ]
+            },
+            {
+                "municipio": "Tinaco",
+                "capital": "Tinaco",
+                "parroquias": [
+                    "General en Jefe José Laurencio Silva"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Aguirre",
+            "Apartaderos Cojedes",
+            "Arismendi",
+            "Camuriquito",
+            "El Baúl",
+            "El Limón",
+            "El Pao Cojedes",
+            "El Socorro",
+            "La Aguadita",
+            "Las Vegas",
+            "Libertad de Cojedes",
+            "Mapuey",
+            "Piñedo",
+            "Samancito",
+            "San Carlos",
+            "Sucre",
+            "Tinaco",
+            "Tinaquillo",
+            "Vallecito"
+        ]
+    },
+    {
         "iso_3166-2": "VE-Y",
         "estado": "Delta Amacuro",
         "id_estado": 9,
@@ -219,6 +604,150 @@
         ],
         "ciudades": [
             "Tucupita"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-K",
+        "estado": "Lara",
+        "id_estado": 12,
+        "municipios": [
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "capital": "Sanare",
+                "parroquias": [
+                    "Quebrada Honda de Guache",
+                    "Pío Tamayo",
+                    "Yacambú"
+                ]
+            },
+            {
+                "municipio": "Crespo",
+                "capital": "Duaca",
+                "parroquias": [
+                    "Freitez",
+                    "José María Blanco"
+                ]
+            },
+            {
+                "municipio": "Iribarren",
+                "capital": "Barquisimeto",
+                "parroquias": [
+                    "Catedral",
+                    "Concepción",
+                    "El Cují",
+                    "Juan de Villegas",
+                    "Santa Rosa",
+                    "Tamaca",
+                    "Unión",
+                    "Aguedo Felipe Alvarado",
+                    "Buena Vista",
+                    "Juárez"
+                ]
+            },
+            {
+                "municipio": "Jiménez",
+                "capital": "Quibor",
+                "parroquias": [
+                    "Juan Bautista Rodríguez",
+                    "Cuara",
+                    "Diego de Lozada",
+                    "Paraíso de San José",
+                    "San Miguel",
+                    "Tintorero",
+                    "José Bernardo Dorante",
+                    "Coronel Mariano Peraza"
+                ]
+            },
+            {
+                "municipio": "Morán",
+                "capital": "El Tocuyo",
+                "parroquias": [
+                    "Anzoátegui",
+                    "Bolívar",
+                    "Guárico",
+                    "Hilario Luna y Luna",
+                    "Humocaro Bajo",
+                    "Humocaro Alto",
+                    "La Candelaria",
+                    "Morán"
+                ]
+            },
+            {
+                "municipio": "Palavecino",
+                "capital": "Cabudare",
+                "parroquias": [
+                    "Cabudare",
+                    "José Gregorio Bastidas",
+                    "Agua Viva"
+                ]
+            },
+            {
+                "municipio": "Simón Planas",
+                "capital": "Sarare",
+                "parroquias": [
+                    "Buría",
+                    "Gustavo Vega",
+                    "Sarare"
+                ]
+            },
+            {
+                "municipio": "Torres",
+                "capital": "Carora",
+                "parroquias": [
+                    "Altagracia",
+                    "Antonio Díaz",
+                    "Camacaro",
+                    "Castañeda",
+                    "Cecilio Zubillaga",
+                    "Chiquinquira",
+                    "El Blanco",
+                    "Espinoza de los Monteros",
+                    "Heriberto Arrollo",
+                    "Lara",
+                    "Las Mercedes",
+                    "Manuel Morillo",
+                    "Montaña Verde",
+                    "Montes de Oca",
+                    "Reyes de Vargas",
+                    "Torres",
+                    "Trinidad Samuel"
+                ]
+            },
+            {
+                "municipio": "Urdaneta",
+                "capital": "Siquisique",
+                "parroquias": [
+                    "Siquisique",
+                    "San Miguel",
+                    "Moroturo",
+                    "Xaguas"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Aguada Grande",
+            "Atarigua",
+            "Barquisimeto",
+            "Bobare",
+            "Cabudare",
+            "Carora",
+            "Cubiro",
+            "Cují",
+            "Duaca",
+            "El Manzano",
+            "El Tocuyo",
+            "Guaríco",
+            "Humocaro Alto",
+            "Humocaro Bajo",
+            "La Miel",
+            "Moroturo",
+            "Quíbor",
+            "Río Claro",
+            "Sanare",
+            "Santa Inés",
+            "Sarare",
+            "Siquisique",
+            "Tintorero"
         ]
     },
     {
