@@ -1,11 +1,234 @@
 [
     {
+        "iso_3166-2": "VE-X",
+        "estado": "Amazonas",
+        "id_estado": 1,
+        "municipios": [
+            {
+                "municipio": "Alto Orinoco",
+                "capital": "La Esmeralda",
+                "parroquias": [
+                    "Alto Orinoco La Esmeralda",
+                    "Huachamacare Acanaña",
+                    "Marawaka Toky Shamanaña",
+                    "Mavaka Mavaka",
+                    "Sierra Parima Parimabé"
+                ]
+            },
+            {
+                "municipio": "Atabapo",
+                "capital": "San Fernando de Atabapo",
+                "parroquias": [
+                    "Ucata Laja Lisa",
+                    "Yapacana Macuruco",
+                    "Caname Guarinuma"
+                ]
+            },
+            {
+                "municipio": "Atures",
+                "capital": "Puerto Ayacucho",
+                "parroquias": [
+                    "Fernando Girón Tovar",
+                    "Luis Alberto Gómez",
+                    "Pahueña Limón de Parhueña",
+                    "Platanillal Platanillal"
+                ]
+            },
+            {
+                "municipio": "Autana",
+                "capital": "Isla Ratón",
+                "parroquias": [
+                    "Samariapo Samariapo",
+                    "Sipapo Pendare",
+                    "Munduapo Munduapo",
+                    "Guayapo San Pedro del Orinoco"
+                ]
+            },
+            {
+                "municipio": "Manapiare",
+                "capital": "San Juan de Manapiare",
+                "parroquias": [
+                    "Alto Ventuari Cacurí",
+                    "Medio Ventuari Manami",
+                    "Bajo Ventuari Marueta"
+                ]
+            },
+            {
+                "municipio": "Maroa",
+                "capital": "Maroa",
+                "parroquias": [
+                    "Victorino",
+                    "Comunidad"
+                ]
+            },
+            {
+                "municipio": "Río Negro",
+                "capital": "San Carlos de Río Negro", 
+                "parroquias": [
+                    "Casiquiare Curimacare",
+                    "Cocuy",
+                    "San Carlos de Río Negro",
+                    "Solano Solano"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Maroa",
+            "Puero Ayacucho",
+            "San Fernando de Atabapo"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-C",
+        "estado": "Apure",
+        "id_estado": 3,
+        "municipios": [
+            {
+                "municipio": "Achaguas",
+                "capital": "Achaguas",
+                "parroquias": [
+                    "Achaguas",
+                    "Apurito",
+                    "El Yagual",
+                    "Guachara",
+                    "Mucuritas",
+                    "Queseras del medio"
+                ]
+            },
+            {
+                "municipio": "Biruaca",
+                "capital": "Biruaca",
+                "parroquias": [
+                    "Biruaca"
+                ]
+            },
+            {
+                "municipio": "Muñoz",
+                "capital": "Bruzual",
+                "parroquias": [
+                    "Bruzual",
+                    "Mantecal",
+                    "Quintero",
+                    "Rincón Hondo",
+                    "San Vicente"
+                ]
+            },
+            {
+                "municipio": "Páez",
+                "capital": "Guasdualito",
+                "parroquias": [
+                    "Guasdualito",
+                    "Aramendi",
+                    "El Amparo",
+                    "San Camilo",
+                    "Urdaneta"
+                ]
+            },
+            {
+                "municipio": "Pedro Camejo",
+                "capital": "San Juan de Payara",
+                "parroquias": [
+                    "San Juan de Payara",
+                    "Codazzi",
+                    "Cunaviche"
+                ]
+            },
+            {
+                "municipio": "Rómulo Gallegos",
+                "capital": "Elorza",
+                "parroquias": [
+                    "Elorza",
+                    "La Trinidad"
+                ]
+            },
+            {
+                "municipio": "San Fernando",
+                "capital": "San Fernando de Apure",
+                "parroquias": [
+                    "San Fernando",
+                    "El Recreo",
+                    "Peñalver",
+                    "San Rafael de Atamaica"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Achaguas",
+            "Biruaca",
+            "Bruzual",
+            "El Amparo",
+            "El Nula",
+            "Elorza",
+            "Guasdualito",
+            "Mantecal",
+            "Puerto Páez",
+            "San Fernando de Apure",
+            "San Juan de Payara"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-Y",
+        "estado": "Delta Amacuro",
+        "id_estado": 9,
+        "municipios": [
+            {
+                "municipio": "Antonio Díaz",
+                "capital": "Curiapo",
+                "parroquias": [
+                    "Curiapo",
+                    "Almirante Luis Brión",
+                    "Francisco Aniceto Lugo Boca de Cuyubini",
+                    "Manuel Renaud",
+                    "Padre Barral",
+                    "Santos de Abelgas"
+                ]
+            },
+            {
+                "municipio": "Casacoima",
+                "capital": "Sierra Imataca",
+                "parroquias": [
+                    "Imataca Moruca",
+                    "Cinco de Julio Piacoa",
+                    "Juan Bautista Arismendi ",
+                    "Manuel Piar Santa Catalina",
+                    "Rómulo Gallegos"
+                ]
+            },
+            {
+                "municipio": "Pedernales",
+                "capital": "Pedernales",
+                "parroquias": [
+                    "Pedernales",
+                    "Luis Beltrán Prieto Figueroa"
+                ]
+            },
+            {
+                "municipio": "Tucupita",
+                "capital": "Tucupita",
+                "parroquias": [
+                    "San José",
+                    "José Vidal Marcano Caparal de Guara",
+                    "Juan Millán",
+                    "Leonardo Ruíz Pineda Paloma",
+                    "Mariscal Antonio José de Sucre",
+                    "Monseñor Argimiro García San Rafael",
+                    "San Rafael",
+                    "Virgen del Valle"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Tucupita"
+        ]
+    },
+    {
         "iso_3166-2": "VE-W",
         "estado": "Vargas",
         "id_estado": 21,
         "municipios": [
             {
                 "municipio": "Vargas",
+                "capital": "Vargas",
                 "parroquias": [
                     "Caraballeda",
                     "Carayaca",
@@ -33,6 +256,7 @@
         "municipios": [
             {
                 "municipio": "Almirante Padilla",
+                "capital": "El Toro",
                 "parroquias": [
                     "Isla de Toas",
                     "Monagas"
@@ -40,6 +264,7 @@
             },
             {
                 "municipio": "Baralt",
+                "capital": "San Timoteo",
                 "parroquias": [
                     "General Urdaneta",
                     "Libertador",
@@ -50,6 +275,7 @@
             },
             {
                 "municipio": "Cabimas",
+                "capital": "Cabimas",
                 "parroquias": [
                     "Ambrosio",
                     "Carmen Herrera",
@@ -64,6 +290,7 @@
             },
             {
                 "municipio": "Catatumbo",
+                "capital": "Encontrados",
                 "parroquias": [
                     "Encontrados",
                     "Udón Pérez"
@@ -71,9 +298,10 @@
             },
             {
                 "municipio": "Colón",
+                "capital": "San Carlos del Zulia",
                 "parroquias": [
                     "Moralito",
-                    "capital San Carlos del Zulia",
+                    "San Carlos del Zulia",
                     "Santa Cruz del Zulia",
                     "Santa Bárbara",
                     "Urribarrí"
@@ -81,6 +309,7 @@
             },
             {
                 "municipio": "Francisco Javier Pulgar",
+                "capital": "Pueblo Nuevo - El Chivo",
                 "parroquias": [
                     "Carlos Quevedo",
                     "Francisco Javier Pulgar",
@@ -90,6 +319,7 @@
             },
             {
                 "municipio": "Páez",
+                "capital": "Sinamaica",
                 "parroquias": [
                     "Sinamaica",
                     "Alta Guajira",
@@ -99,6 +329,7 @@
             },
             {
                 "municipio": "Jesús Enrique Lossada",
+                "capital": "La Concepción",
                 "parroquias": [
                     "La Concepción",
                     "San José",
@@ -108,6 +339,7 @@
             },
             {
                 "municipio": "Jesús María Semprún",
+                "capital": "Casigua - El Cubo",
                 "parroquias": [
                     "Jesús María Semprún",
                     "Barí"
@@ -115,6 +347,7 @@
             },
             {
                 "municipio": "La Cañada de Urdaneta",
+                "capital": "La Concepción",
                 "parroquias": [
                     "Concepción",
                     "Andrés Bello",
@@ -125,6 +358,7 @@
             },
             {
                 "municipio": "Lagunillas",
+                "capital": "Ciudad Ojeda",
                 "parroquias": [
                     "Libertad",
                     "Alonso de Ojeda",
@@ -135,6 +369,7 @@
             },
             {
                 "municipio": "Machiques de Perijá",
+                "capital": "Machiques",
                 "parroquias": [
                     "Bartolomé de las Casas",
                     "Libertad",
@@ -144,6 +379,7 @@
             },
             {
                 "municipio": "Mara",
+                "capital": "San Rafael de El Moján",
                 "parroquias": [
                     "San Rafael",
                     "La Sierrita",
@@ -156,6 +392,7 @@
             },
             {
                 "municipio": "Maracaibo",
+                "capital": "Maracaibo",
                 "parroquias": [
                     "Antonio Borjas Romero",
                     "Bolívar",
@@ -179,6 +416,7 @@
             },
             {
                 "municipio": "Miranda",
+                "capital": "Los Puertos de Altagracia",
                 "parroquias": [
                     "Altagracia",
                     "Faría",
@@ -189,6 +427,7 @@
             },
             {
                 "municipio": "Rosario de Perijá",
+                "capital": "La Villa del Rosario",
                 "parroquias": [
                     "Donaldo García",
                     "El Rosario",
@@ -197,6 +436,7 @@
             },
             {
                 "municipio": "San Francisco",
+                "capital": "San Francisco",
                 "parroquias": [
                     "San Francisco",
                     "El Bajo",
@@ -208,6 +448,7 @@
             },
             {
                 "municipio": "Santa Rita",
+                "capital": "Santa Rita",
                 "parroquias": [
                     "Santa Rita",
                     "El Mene",
@@ -217,6 +458,7 @@
             },
             {
                 "municipio": "Simón Bolívar",
+                "capital": "Tía Juana",
                 "parroquias": [
                     "Rafael Maria Baralt",
                     "Manuel Manrique",
@@ -225,6 +467,7 @@
             },
             {
                 "municipio": "Sucre",
+                "capital": "Bobures",
                 "parroquias": [
                     "Bobures",
                     "Gibraltar",
@@ -236,6 +479,7 @@
             },
             {
                 "municipio": "Valmore Rodríguez",
+                "capital": "Bachaquero",
                 "parroquias": [
                     "Rafael Urdaneta",
                     "La Victoria",
@@ -291,6 +535,41 @@
             "Tamare",
             "Tía Juana",
             "Villa Rosario"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-A",
+        "estado": "Distrito Capital",
+        "id_estado": 24,
+        "municipios": [
+            {
+                "municipio": "Libertador",
+                "capital": "Caracas",
+                "parroquias": [
+                    "23 de enero",
+                    "Altagracia",
+                    "Antímano",
+                    "Caricuao",
+                    "Catedral",
+                    "Coche",
+                    "El Junquito",
+                    "El Paraíso",
+                    "El Recreo",
+                    "El Valle",
+                    "Candelaria",
+                    "La Pastora",
+                    "La Vega",
+                    "Macarao",
+                    "San Agustín",
+                    "San Bernardino",
+                    "San José",
+                    "San Juan",
+                    "San Pedro",
+                    "Santa Rosalía",
+                    "Santa Teresa",
+                    "Sucre (Catia)"
+                ]        
+            }
         ]
     }
 ]
