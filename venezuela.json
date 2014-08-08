@@ -1,0 +1,296 @@
+[
+    {
+        "iso_3166-2": "VE-W",
+        "estado": "Vargas",
+        "id_estado": 21,
+        "municipios": [
+            {
+                "municipio": "Vargas",
+                "parroquias": [
+                    "Caraballeda",
+                    "Carayaca",
+                    "Carlos Soublette",
+                    "Caruao Chuspa",
+                    "Catia La Mar",
+                    "El Junko",
+                    "La Guaira",
+                    "Macuto",
+                    "Maiquetía",
+                    "Naiguatá",
+                    "Urimare"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Carayaca",
+            "Litoral"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-V",
+        "estado": "Zulia",
+        "id_estado": 23,
+        "municipios": [
+            {
+                "municipio": "Almirante Padilla",
+                "parroquias": [
+                    "Isla de Toas",
+                    "Monagas"
+                ]
+            },
+            {
+                "municipio": "Baralt",
+                "parroquias": [
+                    "General Urdaneta",
+                    "Libertador",
+                    "Marcelino Briceño",
+                    "Pueblo Nuevo",
+                    "Manuel Guanipa Matos"
+                ]
+            },
+            {
+                "municipio": "Cabimas",
+                "parroquias": [
+                    "Ambrosio",
+                    "Carmen Herrera",
+                    "La Rosa",
+                    "Germán Ríos Linares",
+                    "San Benito",
+                    "Rómulo Betancourt",
+                    "Jorge Hernández",
+                    "Punta Gorda",
+                    "Arístides Calvani"
+                ]
+            },
+            {
+                "municipio": "Catatumbo",
+                "parroquias": [
+                    "Encontrados",
+                    "Udón Pérez"
+                ]
+            },
+            {
+                "municipio": "Colón",
+                "parroquias": [
+                    "Moralito",
+                    "capital San Carlos del Zulia",
+                    "Santa Cruz del Zulia",
+                    "Santa Bárbara",
+                    "Urribarrí"
+                ]
+            },
+            {
+                "municipio": "Francisco Javier Pulgar",
+                "parroquias": [
+                    "Carlos Quevedo",
+                    "Francisco Javier Pulgar",
+                    "Simón Rodríguez",
+                    "Guamo-Gavilanes"
+                ]
+            },
+            {
+                "municipio": "Páez",
+                "parroquias": [
+                    "Sinamaica",
+                    "Alta Guajira",
+                    "Elías Sánchez Rubio",
+                    "Guajira"
+                ]
+            },
+            {
+                "municipio": "Jesús Enrique Lossada",
+                "parroquias": [
+                    "La Concepción",
+                    "San José",
+                    "Mariano Parra León",
+                    "José Ramón Yépez"
+                ]
+            },
+            {
+                "municipio": "Jesús María Semprún",
+                "parroquias": [
+                    "Jesús María Semprún",
+                    "Barí"
+                ]
+            },
+            {
+                "municipio": "La Cañada de Urdaneta",
+                "parroquias": [
+                    "Concepción",
+                    "Andrés Bello",
+                    "Chiquinquirá",
+                    "El Carmelo",
+                    "Potreritos"
+                ]
+            },
+            {
+                "municipio": "Lagunillas",
+                "parroquias": [
+                    "Libertad",
+                    "Alonso de Ojeda",
+                    "Venezuela",
+                    "Eleazar López Contreras",
+                    "Campo Lara"
+                ]
+            },
+            {
+                "municipio": "Machiques de Perijá",
+                "parroquias": [
+                    "Bartolomé de las Casas",
+                    "Libertad",
+                    "Río Negro",
+                    "San José de Perijá"
+                ]
+            },
+            {
+                "municipio": "Mara",
+                "parroquias": [
+                    "San Rafael",
+                    "La Sierrita",
+                    "Las Parcelas",
+                    "Luis de Vicente",
+                    "Monseñor Marcos Sergio Godoy",
+                    "Ricaurte",
+                    "Tamare"
+                ]
+            },
+            {
+                "municipio": "Maracaibo",
+                "parroquias": [
+                    "Antonio Borjas Romero",
+                    "Bolívar",
+                    "Cacique Mara",
+                    "Carracciolo Parra Pérez",
+                    "Cecilio Acosta",
+                    "Cristo de Aranza",
+                    "Coquivacoa",
+                    "Chiquinquirá",
+                    "Francisco Eugenio Bustamante",
+                    "Idelfonzo Vásquez",
+                    "Juana de Ávila",
+                    "Luis Hurtado Higuera",
+                    "Manuel Dagnino",
+                    "Olegario Villalobos.",
+                    "Raúl Leoni",
+                    "Santa Lucía",
+                    "Venancio Pulgar",
+                    "San Isidro"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "parroquias": [
+                    "Altagracia",
+                    "Faría",
+                    "Ana María Campos",
+                    "San Antonio",
+                    "San José"
+                ]
+            },
+            {
+                "municipio": "Rosario de Perijá",
+                "parroquias": [
+                    "Donaldo García",
+                    "El Rosario",
+                    "Sixto Zambrano"
+                ]
+            },
+            {
+                "municipio": "San Francisco",
+                "parroquias": [
+                    "San Francisco",
+                    "El Bajo",
+                    "Domitila Flores",
+                    "Francisco Ochoa",
+                    "Los Cortijos",
+                    "Marcial Hernández"
+                ]
+            },
+            {
+                "municipio": "Santa Rita",
+                "parroquias": [
+                    "Santa Rita",
+                    "El Mene",
+                    "Pedro Lucas Urribarrí",
+                    "José Cenobio Urribarrí"
+                ]
+            },
+            {
+                "municipio": "Simón Bolívar",
+                "parroquias": [
+                    "Rafael Maria Baralt",
+                    "Manuel Manrique",
+                    "Rafael Urdaneta"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "parroquias": [
+                    "Bobures",
+                    "Gibraltar",
+                    "Heras",
+                    "Monseñor Arturo Álvarez",
+                    "Rómulo Gallegos",
+                    "El Batey"
+                ]
+            },
+            {
+                "municipio": "Valmore Rodríguez",
+                "parroquias": [
+                    "Rafael Urdaneta",
+                    "La Victoria",
+                    "Raúl Cuenca"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Bachaquero",
+            "Bobures",
+            "Cabimas",
+            "Campo Concepción",
+            "Campo Mara",
+            "Campo Rojo",
+            "Carrasquero",
+            "Casigua",
+            "Chiquinquirá",
+            "Ciudad Ojeda",
+            "El Batey",
+            "El Carmelo",
+            "El Chivo",
+            "El Guayabo",
+            "El Mene",
+            "El Venado",
+            "Encontrados",
+            "Gibraltar",
+            "Isla de Toas",
+            "La Concepción",
+            "La Paz",
+            "La Sierrita",
+            "Lagunillas",
+            "Las Piedras",
+            "Los Cortijos",
+            "Machiques",
+            "Maracaibo",
+            "Mene Grande",
+            "Palmarejo",
+            "Paraguaipoa",
+            "Potrerito",
+            "Pueblo Nuevo",
+            "Puertos de Altagracia",
+            "Punta Gorda",
+            "Sabaneta de Palma",
+            "San Francisco",
+            "San José de Perijá",
+            "San Rafael del Moján",
+            "San Timoteo",
+            "Santa Bárbara del Zulia",
+            "Santa Cruz de Mara",
+            "Santa Cruz del Zulia",
+            "Santa Rita",
+            "Sinamaica",
+            "Tamare",
+            "Tía Juana",
+            "Villa Rosario"
+        ]
+    }
+]
