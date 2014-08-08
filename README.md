@@ -1,22 +1,22 @@
-Venezuela-JSON
-================
+# Venezuela-JSON
 
-Venezuela states, cities, municipalities and parishes in format JSON for MongoDB.
+Estados, Ciudades, Municipios y Parroquias de Venezuela en formato JSON.
 
-### MongoDB import
+# Uso
+El documento `venezuela.json` es ideal para ser importado a una base de datos No-SQL. Por ello, te dejamos las instrucciones necesarias para lograrlo.
 
-For importing JSON data into MongoDB, please use:
+### MongoDB
+
+Para importar `venezuela.json` a [MongoDB] (http://www.mongodb.com/mongodb-overview) sólo debes escribir en tu consola:
 
 ```bash
-mongoimport --jsonArray --db your_ddatabase --collection your_collection --type json --file states-cities.json
+mongoimport --jsonArray --db tu_base_de_datos --collection tu_coleccion --type json --file "/ruta/a/venezuela.json"
 ```
 
-### Reference
+# Referencias
 
-1. Wikipedia Listas de Parroquias de cada estado de Venezuela https://es.wikipedia.org/wiki/Categor%C3%ADa:Anexos:Parroquias_de_Venezuela
-2. Wikipedia Lista de Municipios de Venezuela por entidad federativa https://es.wikipedia.org/wiki/Anexo:Municipios_de_Venezuela
+- [Municipios de Venezuela] (https://es.wikipedia.org/wiki/Anexo:Municipios_de_Venezuela)
+- [Parroquias de Venezuela] (https://es.wikipedia.org/wiki/Categor%C3%ADa:Anexos:Parroquias_de_Venezuela)
 
-### Revisions
-* 26 February 2014
-* 30 December 2013
+
 
