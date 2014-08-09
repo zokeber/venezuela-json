@@ -167,6 +167,193 @@
         ]
     },
     {
+        "iso_3166-2": "VE-D",
+        "estado": "Aragua",
+        "id_estado": 4,
+        "municipios": [
+            {
+                "municipio": "Bolívar",
+                "capital": "San Mateo",
+                "parroquias": [
+                    "Bolívar"
+                ]
+            },
+            {
+                "municipio": "Camatagua",
+                "capital": "Camatagua",
+                "parroquias": [
+                    "Camatagua",
+                    "Carmen de Cura"
+                ]
+            },
+            {
+                "municipio": "Francisco Linares Alcántara",
+                "capital": "Santa Rita",
+                "parroquias": [
+                    "Santa Rita",
+                    "Francisco de Miranda",
+                    "Moseñor Feliciano González"
+                ]
+            },
+            {
+                "municipio": "Girardot",
+                "capital": "Maracay",
+                "parroquias": [
+                    "Pedro José Ovalles",
+                    "Joaquín Crespo",
+                    "José Casanova Godoy",
+                    "Madre María de San José",
+                    "Andrés Eloy Blanco",
+                    "Los Tacarigua",
+                    "Las Delicias",
+                    "Choroní"
+                ]
+            },
+            {
+                "municipio": "José Ángel Lamas",
+                "capital": "Santa Cruz de Aragua",
+                "parroquias": [
+                    "Santa Cruz"
+                ]
+            },
+            {
+                "municipio": "José Félix Ribas",
+                "capital": "La Victoria",
+                "parroquias": [
+                    "José Félix Ribas",
+                    "Castor Nieves Ríos",
+                    "Las Guacamayas",
+                    "Pao de Zárate",
+                    "Zuata"
+                ]
+            },
+            {
+                "municipio": "José Rafael Revenga",
+                "capital": "El Consejo",
+                "parroquias": [
+                    "José Rafael Revenga"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Palo Negro",
+                "parroquias": [
+                    "Palo Negro",
+                    "San Martín de Porres"
+                ]
+            },
+            {
+                "municipio": "Mario Briceño Iragorry",
+                "capital": "El Limón",
+                "parroquias": [
+                    "El Limón",
+                    "Caña de Azúcar"
+                ]
+            },
+            {
+                "municipio": "Ocumare de la Costa de Oro",
+                "capital": "Ocumare de la Costa",
+                "parroquias": [
+                    "Ocumare de la Costa"
+                ]
+            },
+            {
+                "municipio": "San Casimiro",
+                "capital": "San Casimiro",
+                "parroquias": [
+                    "San Casimiro",
+                    "Güiripa",
+                    "Ollas de Caramacate",
+                    "Valle Morín"
+                ]
+            },
+            {
+                "municipio": "San Sebastián",
+                "capital": "San Sebastián de Los Reyes",
+                "parroquias": [
+                    "San Sebastián"
+                ]
+            },
+            {
+                "municipio": "Santiago Mariño",
+                "capital": "Turmero",
+                "parroquias": [
+                    "Turmero",
+                    "Arevalo Aponte",
+                    "Chuao",
+                    "Samán de Güere",
+                    "Alfredo Pacheco Miranda"
+                ]
+            },
+            {
+                "municipio": "Santos Michelena",
+                "capital": "Las Tejerías",
+                "parroquias": [
+                    "Santos Michelena",
+                    "Tiara"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Cagua",
+                "parroquias": [
+                    "Cagua",
+                    "Bella Vista"
+                ]
+            },
+            {
+                "municipio": "Tovar",
+                "capital": "Colonia Tovar",
+                "parroquias": [
+                    "Tovar"
+                ]
+            },
+            {
+                "municipio": "Urdaneta",
+                "capital": "Barbacoas",
+                "parroquias": [
+                    "Urdaneta",
+                    "Las Peñitas",
+                    "San Francisco de Cara",
+                    "Taguay"
+                ]
+            },
+            {
+                "municipio": "Zamora",
+                "capital": "Villa de Cura",
+                "parroquias": [
+                    "Zamora",
+                    "Magdaleno",
+                    "San Francisco de Asís",
+                    "Valles de Tucutunemo",
+                    "Augusto Mijares"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Barbacoas",
+            "Cagua",
+            "Camatagua",
+            "Choroní",
+            "Colonia Tovar",
+            "El Consejo",
+            "La Victoria",
+            "Las Tejerías",
+            "Magdaleno",
+            "Maracay",
+            "Ocumare de La Costa",
+            "Palo Negro",
+            "San Casimiro",
+            "San Mateo",
+            "San Sebastián",
+            "Santa Cruz de Aragua",
+            "Tocorón",
+            "Turmero",
+            "Villa de Cura",
+            "Zuata"
+        ]
+    },
+    {
         "iso_3166-2": "VE-E",
         "estado": "Barinas",
         "id_estado": 5,
@@ -761,6 +948,163 @@
         ]
     },
     {
+        "iso_3166-2": "VE-J",
+        "estado": "Guárico",
+        "id_estado": 11,
+        "municipios": [
+            {
+                "municipio": "Camaguán",
+                "capital": "Camaguán",
+                "parroquias": [
+                    "Camaguán",
+                    "Puerto Miranda",
+                    "Uverito"
+                ]
+            },
+            {
+                "municipio": "Chaguaramas",
+                "capital": "Chaguaramas",
+                "parroquias": [
+                    "Chaguaramas"
+                ]
+            },
+            {
+                "municipio": "El Socorro",
+                "capital": "El Socorro",
+                "parroquias": [
+                    "El Socorro"
+                ]
+            },
+            {
+                "municipio": "Infante",
+                "capital": "Valle de La Pascua",
+                "parroquias": [
+                    "Valle de la Pascua",
+                    "Espino"
+                ]
+            },
+            {
+                "municipio": "Las Mercedes",
+                "capital": "Las Mercedes",
+                "parroquias": [
+                    "Las Mercedes",
+                    "Cabruta",
+                    "Santa Rita de Manapire"
+                ]
+            },
+            {
+                "municipio": "Mellado",
+                "capital": "El Sombrero",
+                "parroquias": [
+                    "El Sombrero",
+                    "Sosa"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "Calabozo",
+                "parroquias": [
+                    "El Calvario",
+                    "El Rastro",
+                    "Guardatinajas",
+                    "Capital Urbana Calabozo"
+                ]
+            },
+            {
+                "municipio": "Monagas",
+                "capital": "Altagracia de Orituco",
+                "parroquias": [
+                    "Altagracia de Orituco",
+                    "San Rafael de Orituco",
+                    "San Francisco Javier de Lezama",
+                    "Paso Real de Macaira",
+                    "Carlos Soublette",
+                    "San Francisco de Macaira",
+                    "Libertad de Orituco"
+                ]
+            },
+            {
+                "municipio": "Ortiz",
+                "capital": "Ortiz",
+                "parroquias": [
+                    "San José de Tiznados",
+                    "San Francisco de Tiznados",
+                    "San Lorenzo de Tiznados",
+                    "Ortiz"
+                ]
+            },
+            {
+                "municipio": "Ribas",
+                "capital": "Tucupido",
+                "parroquias": [
+                    "Tucupido",
+                    "San Rafael de Laya"
+                ]
+            },
+            {
+                "municipio": "Roscio",
+                "capital": "San Juan de Los Morros",
+                "parroquias": [
+                    "Cantagallo",
+                    "San Juan de los Morros",
+                    "Parapara"
+                ]
+            },
+            {
+                "municipio": "San Gerónimo de Guayabal",
+                "capital": "Guayabal",
+                "parroquias": [
+                    "Guayabal",
+                    "Cazorla"
+                ]
+            },
+            {
+                "municipio": "San José de Guaribe",
+                "capital": "San José de Guaribe",
+                "parroquias": [
+                    "San José de Guaribe",
+                    "Uveral"
+                ]
+            },
+            {
+                "municipio": "Santa María de Ipire",
+                "capital": "Santa María de Ipire",
+                "parroquias": [
+                    "Santa María de Ipire",
+                    "Altamira"
+                ]
+            },
+            {
+                "municipio": "Zaraza",
+                "capital": "Zaraza",
+                "parroquias": [
+                    "Unare",
+                    "Zaraza"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Altagracia de Orituco",
+            "Cabruta",
+            "Calabozo",
+            "Camaguán",
+            "Chaguaramas Guárico",
+            "El Socorro",
+            "El Sombrero",
+            "Las Mercedes de Los Llanos",
+            "Lezama",
+            "Onoto",
+            "Ortíz",
+            "San José de Guaribe",
+            "San Juan de Los Morros",
+            "San Rafael de Laya",
+            "Santa María de Ipire",
+            "Tucupido",
+            "Valle de La Pascua",
+            "Zaraza"
+        ]
+    },
+    {
         "iso_3166-2": "VE-K",
         "estado": "Lara",
         "id_estado": 12,
@@ -1170,6 +1514,585 @@
             "San Pedro de Coche",
             "Santa Ana de Nueva Esparta",
             "Villa Rosa"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-P",
+        "estado": "Portuguesa",
+        "id_estado": 17,
+        "municipios": [
+            {
+                "municipio": "Agua Blanca",
+                "capital": "Agua Blanca",
+                "parroquias": [
+                    "Agua Blanca"
+                ]
+            },
+            {
+                "municipio": "Araure",
+                "capital": "Araure",
+                "parroquias": [
+                    "Araure",
+                    "Río Acarigua"
+                ]
+            },
+            {
+                "municipio": "Esteller",
+                "capital": "Píritu",
+                "parroquias": [
+                    "Píritu",
+                    "Uveral"
+                ]
+            },
+            {
+                "municipio": "Guanare",
+                "capital": "Guanare",
+                "parroquias": [
+                    "Cordova",
+                    "Guanare",
+                    "San José de la Montaña",
+                    "San Juan de Guanaguanare",
+                    "Virgen de Coromoto"
+                ]
+            },
+            {
+                "municipio": "Guanarito",
+                "capital": "Guanarito",
+                "parroquias": [
+                    "Guanarito",
+                    "Trinidad de la Capilla",
+                    "Divina Pastora"
+                ]
+            },
+            {
+                "municipio": "Monseñor José Vicente de Unda",
+                "capital": "Paraíso de Chabasquén",
+                "parroquias": [
+                    "Peña Blanca"
+                ]
+            },
+            {
+                "municipio": "Ospino",
+                "capital": "Ospino",
+                "parroquias": [
+                    "Aparición",
+                    "La Estación",
+                    "Ospino"
+                ]
+            },
+            {
+                "municipio": "Páez",
+                "capital": "Acarigua",
+                "parroquias": [
+                    "Acarigua",
+                    "Payara",
+                    "Pimpinela",
+                    "Ramón Peraza"
+                ]
+            },
+            {
+                "municipio": "Papelón",
+                "capital": "Papelón",
+                "parroquias": [
+                    "Caño Delgadito",
+                    "Papelón"
+                ]
+            },
+            {
+                "municipio": "San Genaro de Boconoíto",
+                "capital": "Boconoíto",
+                "parroquias": [
+                    "Antolín Tovar Anquino",
+                    "Boconoíto"
+                ]
+            },
+            {
+                "municipio": "San Rafael de Onoto",
+                "capital": "San Rafael de Onoto",
+                "parroquias": [
+                    "Santa Fé",
+                    "San Rafael de Onoto",
+                    "Thermo Morales"
+                ]
+            },
+            {
+                "municipio": "Santa Rosalía",
+                "capital": "El Playón",
+                "parroquias": [
+                    "Florida",
+                    "El Playón"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Biscucuy",
+                "parroquias": [
+                    "Biscucuy",
+                    "Concepción",
+                    "San José de Saguaz",
+                    "San Rafael de Palo Alzado",
+                    "Uvencio Antonio Velásquez",
+                    "Villa Rosa"
+                ]
+            },
+            {
+                "municipio": "Turén",
+                "capital": "Villa Bruzual",
+                "parroquias": [
+                    "Canelones",
+                    "Santa Cruz",
+                    "San Isidro Labrador"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Acarigua",
+            "Agua Blanca",
+            "Araure",
+            "Biscucuy",
+            "Boconoito",
+            "Campo Elías",
+            "Chabasquén",
+            "Guanare",
+            "Guanarito",
+            "La Aparición",
+            "La Misión",
+            "Mesa de Cavacas",
+            "Ospino",
+            "Papelón",
+            "Payara",
+            "Pimpinela",
+            "Píritu de Portuguesa",
+            "San Rafael de Onoto",
+            "Santa Rosalía",
+            "Turén"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-R",
+        "estado": "Sucre",
+        "id_estado": 18,
+        "municipios": [
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "capital": "Casanay",
+                "parroquias": [
+                    "Mariño",
+                    "Rómulo Gallegos"
+                ]
+            },
+            {
+                "municipio": "Andrés Mata",
+                "capital": "San José de Aerocuar",
+                "parroquias": [
+                    "San José de Aerocuar",
+                    "Tavera Acosta"
+                ]
+            },
+            {
+                "municipio": "Arismendi",
+                "capital": "Río Caribe",
+                "parroquias": [
+                    "Río Caribe",
+                    "Antonio José de Sucre",
+                    "El Morro de Puerto Santo",
+                    "Puerto Santo",
+                    "San Juan de las Galdonas"
+                ]
+            },
+            {
+                "municipio": "Benítez",
+                "capital": "El Pilar",
+                "parroquias": [
+                    "El Pilar",
+                    "El Rincón",
+                    "General Francisco Antonio Váquez",
+                    "Guaraúnos",
+                    "Tunapuicito",
+                    "Unión"
+                ]
+            },
+            {
+                "municipio": "Bermúdez",
+                "capital": "Carúpano",
+                "parroquias": [
+                    "Santa Catalina",
+                    "Santa Rosa",
+                    "Santa Teresa",
+                    "Bolívar",
+                    "Maracapana"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Marigüitar",
+                "parroquias": []
+            },
+            {
+                "municipio": "Cajigal",
+                "capital": "Yaguaraparo",
+                "parroquias": [
+                    "Libertad",
+                    "El Paujil",
+                    "Yaguaraparo"
+                ]
+            },
+            {
+                "municipio": "Cruz Salmerón Acosta",
+                "capital": "Araya",
+                "parroquias": [
+                    "Cruz Salmerón Acosta",
+                    "Chacopata",
+                    "Manicuare"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Tunapuy",
+                "parroquias": [
+                    "Tunapuy",
+                    "Campo Elías"
+                ]
+            },
+            {
+                "municipio": "Mariño",
+                "capital": "Irapa",
+                "parroquias": [
+                    "Irapa",
+                    "Campo Claro",
+                    "Maraval",
+                    "San Antonio de Irapa",
+                    "Soro"
+                ]
+            },
+            {
+                "municipio": "Mejía",
+                "capital": "San Antonio del Golfo",
+                "parroquias": [
+                    "Mejía"
+                ]
+            },
+            {
+                "municipio": "Montes",
+                "capital": "Cumanacoa",
+                "parroquias": [
+                    "Cumanacoa",
+                    "Arenas",
+                    "Aricagua",
+                    "Cocollar",
+                    "San Fernando",
+                    "San Lorenzo"
+                ]
+            },
+            {
+                "municipio": "Ribero",
+                "capital": "Cariaco",
+                "parroquias": [
+                    "Villa Frontado (Muelle de Cariaco)",
+                    "Catuaro",
+                    "Rendón",
+                    "San Cruz",
+                    "Santa María"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Cumaná",
+                "parroquias": [
+                    "Altagracia Cumaná",
+                    "Santa Inés Cumaná",
+                    "Valentín Valiente Cumaná",
+                    "Ayacucho Cumaná",
+                    "San Juan",
+                    "Raúl Leoni",
+                    "Gran Mariscal"
+                ]
+            },
+            {
+                "municipio": "Valdez",
+                "capital": "Güiria",
+                "parroquias": [
+                    "Cristóbal Colón",
+                    "Bideau",
+                    "Punta de Piedras",
+                    "Güiria"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Altos de Sucre",
+            "Araya",
+            "Cariaco",
+            "Carúpano",
+            "Casanay",
+            "Cumaná",
+            "Cumanacoa",
+            "El Morro Puerto Santo",
+            "El Pilar",
+            "El Poblado",
+            "Guaca",
+            "Guiria",
+            "Irapa",
+            "Manicuare",
+            "Mariguitar",
+            "Río Caribe",
+            "San Antonio del Golfo",
+            "San José de Aerocuar",
+            "San Vicente de Sucre",
+            "Santa Fe de Sucre",
+            "Tunapuy",
+            "Yaguaraparo",
+            "Yoco"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-T",
+        "estado": "Trujillo",
+        "id_estado": 20,
+        "municipios": [
+            {
+                "municipio": "Andrés Bello",
+                "capital": "Santa Isabel",
+                "parroquias": [
+                    "Araguaney",
+                    "El Jaguito",
+                    "La Esperanza",
+                    "Santa Isabel"
+                ]
+            },
+            {
+                "municipio": "Boconó",
+                "capital": "Boconó",
+                "parroquias": [
+                    "Boconó",
+                    "El Carmen",
+                    "Mosquey",
+                    "Ayacucho",
+                    "Burbusay",
+                    "General Ribas",
+                    "Guaramacal",
+                    "Vega de Guaramacal",
+                    "Monseñor Jáuregui",
+                    "Rafael Rangel",
+                    "San Miguel",
+                    "San José"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Sabana Grande",
+                "parroquias": [
+                    "Sabana Grande",
+                    "Cheregüé",
+                    "Granados"
+                ]
+            },
+            {
+                "municipio": "Candelaria",
+                "capital": "Chejendé",
+                "parroquias": [
+                    "Arnoldo Gabaldón",
+                    "Bolivia",
+                    "Carrillo",
+                    "Cegarra",
+                    "Chejendé",
+                    "Manuel Salvador Ulloa",
+                    "San José"
+                ]
+            },
+            {
+                "municipio": "Carache",
+                "capital": "Carache",
+                "parroquias": [
+                    "Carache",
+                    "La Concepción",
+                    "Cuicas",
+                    "Panamericana",
+                    "Santa Cruz"
+                ]
+            },
+            {
+                "municipio": "Escuque",
+                "capital": "Escuque",
+                "parroquias": [
+                    "Escuque",
+                    "La Unión (El Alto Escuque)",
+                    "Santa Rita",
+                    "Sabana Libre"
+                ]
+            },
+            {
+                "municipio": "José Felipe Márquez Cañizalez",
+                "capital": "El Paradero",
+                "parroquias": [
+                    "El Socorro",
+                    "Los Caprichos",
+                    "Antonio José de Sucre"
+                ]
+            },
+            {
+                "municipio": "Juan Vicente Campos Elías",
+                "capital": "Campo Elías",
+                "parroquias": [
+                    "Campo Elías",
+                    "Arnoldo Gabaldón"
+                ]
+            },
+            {
+                "municipio": "La Ceiba",
+                "capital": "Santa Apolonia",
+                "parroquias": [
+                    "Santa Apolonia",
+                    "El Progreso",
+                    "La Ceiba",
+                    "Tres de Febrero"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "El Dividive",
+                "parroquias": [
+                    "El Dividive",
+                    "Agua Santa",
+                    "Agua Caliente",
+                    "El Cenizo",
+                    "Valerita"
+                ]
+            },
+            {
+                "municipio": "Monte Carmelo",
+                "capital": "Monte Carmelo",
+                "parroquias": [
+                    "Monte Carmelo",
+                    "Buena Vista",
+                    "Santa María del Horcón"
+                ]
+            },
+            {
+                "municipio": "Motatán",
+                "capital": "Motatán",
+                "parroquias": [
+                    "Motatán",
+                    "El Baño",
+                    "Jalisco"
+                ]
+            },
+            {
+                "municipio": "Pampán",
+                "capital": "Pampán",
+                "parroquias": [
+                    "Pampán",
+                    "Flor de Patria",
+                    "La Paz",
+                    "Santa Ana"
+                ]
+            },
+            {
+                "municipio": "Pampanito",
+                "capital": "Pampanito",
+                "parroquias": [
+                    "Pampanito",
+                    "La Concepción",
+                    "Pampanito II"
+                ]
+            },
+            {
+                "municipio": "Rafael Rangel",
+                "capital": "Betijoque",
+                "parroquias": [
+                    "Betijoque",
+                    "José Gregorio Hernández",
+                    "La Pueblita",
+                    "Los Cedros"
+                ]
+            },
+            {
+                "municipio": "San Rafael de Carvajal",
+                "capital": "Carvajal",
+                "parroquias": [
+                    "Carvajal",
+                    "Campo Alegre",
+                    "Antonio Nicolás Briceño",
+                    "José Leonardo Suárez"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Sabana de Mendoza",
+                "parroquias": [
+                    "Sabana de Mendoza",
+                    "Junín",
+                    "Valmore Rodríguez",
+                    "El Paraíso"
+                ]
+            },
+            {
+                "municipio": "Trujillo",
+                "capital": "Trujillo",
+                "parroquias": [
+                    "Andrés Linares",
+                    "Chiquinquirá",
+                    "Cristóbal Mendoza",
+                    "Cruz Carrillo",
+                    "Matriz",
+                    "Monseñor Carrillo",
+                    "Tres Esquinas"
+                ]
+            },
+            {
+                "municipio": "Urdaneta",
+                "capital": "La Quebrada",
+                "parroquias": [
+                    "Cabimbú",
+                    "Jajó",
+                    "La Mesa de Esnujaque",
+                    "Santiago",
+                    "Tuñame",
+                    "La Quebrada"
+                ]
+            },
+            {
+                "municipio": "Valera",
+                "capital": "Valera",
+                "parroquias": [
+                    "Juan Ignacio Montilla",
+                    "La Beatriz",
+                    "La Puerta",
+                    "Mendoza del Valle de Momboy",
+                    "Mercedes Díaz",
+                    "San Luis"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Batatal",
+            "Betijoque",
+            "Boconó",
+            "Carache",
+            "Chejende",
+            "Cuicas",
+            "El Dividive",
+            "El Jaguito",
+            "Escuque",
+            "Isnotú",
+            "Jajó",
+            "La Ceiba",
+            "La Concepción de Trujllo",
+            "La Mesa de Esnujaque",
+            "La Puerta",
+            "La Quebrada",
+            "Mendoza Fría",
+            "Meseta de Chimpire",
+            "Monay",
+            "Motatán",
+            "Pampán",
+            "Pampanito",
+            "Sabana de Mendoza",
+            "San Lázaro",
+            "Santa Ana de Trujillo",
+            "Tostós",
+            "Trujillo",
+            "Valera"
         ]
     },
     {
