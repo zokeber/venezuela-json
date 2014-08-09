@@ -455,6 +455,160 @@
         ]
     },
     {
+        "iso_3166-2": "VE-G",
+        "estado": "Carabobo",
+        "id_estado": 7,
+        "municipios": [
+            {
+                "municipio": "Bejuma",
+                "capital": "Bejuma",
+                "parroquias": [
+                    "Bejuma",
+                    "Canoabo",
+                    "Simón Bolívar"
+                ]
+            },
+            {
+                "municipio": "Carlos Arvelo",
+                "capital": "Güigüe",
+                "parroquias": [
+                    "Güigüe",
+                    "Carabobo",
+                    "Tacarigua"
+                ]
+            },
+            {
+                "municipio": "Diego Ibarra",
+                "capital": "Mariara",
+                "parroquias": [
+                    "Mariara",
+                    "Aguas Calientes"
+                ]
+            },
+            {
+                "municipio": "Guacara",
+                "capital": "Guacara",
+                "parroquias": [
+                    "Ciudad Alianza",
+                    "Guacara",
+                    "Yagua"
+                ]
+            },
+            {
+                "municipio": "Mora",
+                "capital": "Morón",
+                "parroquias": [
+                    "Morón",
+                    "Urama"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Tocuyito",
+                "parroquias": [
+                    "Valencia",
+                    "Campo Carabobo"
+                ]
+            },
+            {
+                "municipio": "Los Guayos",
+                "capital": "Los Guayos",
+                "parroquias": [
+                    "Los Guayos"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "Miranda",
+                "parroquias": [
+                    "Miranda"
+                ]
+            },
+            {
+                "municipio": "Montalbán",
+                "capital": "Montalbán",
+                "parroquias": [
+                    "Montalbán"
+                ]
+            },
+            {
+                "municipio": "Naguanagua",
+                "capital": "Naguanagua",
+                "parroquias": [
+                    "Naguanagua"
+                ]
+            },
+            {
+                "municipio": "Puerto Cabello",
+                "capital": "Puerto Cabello",
+                "parroquias": [
+                    "Bartolomé Salóm",
+                    "Democracia",
+                    "Fraternidad",
+                    "Goaigoaza",
+                    "Juan José Flores",
+                    "Unión",
+                    "Borburata",
+                    "Patanemo"
+                ]
+            },
+            {
+                "municipio": "San Diego",
+                "capital": "San Diego",
+                "parroquias": [
+                    "San Diego"
+                ]
+            },
+            {
+                "municipio": "San Joaquín",
+                "capital": "San Joaquín",
+                "parroquias": [
+                    "San Joaquín"
+                ]
+            },
+            {
+                "municipio": "Valencia",
+                "capital": "Valencia",
+                "parroquias": [
+                    "Urbana Candelaria",
+                    "Urbana Catedral",
+                    "Urbana El Socorro",
+                    "Urbana Miguel Peña",
+                    "Urbana Rafael Urdaneta",
+                    "Urbana San Blas",
+                    "Urbana San José",
+                    "Urbana Santa Rosa",
+                    "No Urbana Negro Primero"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Bejuma",
+            "Belén",
+            "Campo de Carabobo",
+            "Canoabo",
+            "Central Tacarigua",
+            "Chirgua",
+            "Ciudad Alianza",
+            "El Palito",
+            "Guacara",
+            "Guigue",
+            "Las Trincheras",
+            "Los Guayos",
+            "Mariara",
+            "Miranda",
+            "Montalbán",
+            "Morón",
+            "Naguanagua",
+            "Puerto Cabello",
+            "San Joaquín",
+            "Tocuyito",
+            "Urama",
+            "Valencia",
+            "Vigirimita"
+        ]
+    },
+    {
         "iso_3166-2": "VE-H",
         "estado": "Cojedes",
         "id_estado": 8,
@@ -751,6 +905,274 @@
         ]
     },
     {
+        "iso_3166-2": "VE-N",
+        "estado": "Monagas",
+        "id_estado": 15,
+        "municipios": [
+            {
+                "municipio": "Acosta",
+                "capital": "San Antonio de Capayacuar",
+                "parroquias": [
+                    "San Antonio de Maturín",
+                    "San Francisco de Maturín"
+                ]
+            },
+            {
+                "municipio": "Aguasay",
+                "capital": "Aguasay",
+                "parroquias": [
+                    "Aguasay"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Caripito",
+                "parroquias": [
+                    "Caripito"
+                ]
+            },
+            {
+                "municipio": "Caripe",
+                "capital": "Caripe",
+                "parroquias": [
+                    "El Guácharo",
+                    "La Guanota",
+                    "Sabana de Piedra",
+                    "San Agustín",
+                    "Teresen",
+                    "Caripe"
+                ]
+            },
+            {
+                "municipio": "Cedeño",
+                "capital": "Caicara de Maturín",
+                "parroquias": [
+                    "Areo",
+                    "Capital Cedeño",
+                    "San Félix de Cantalicio",
+                    "Viento Fresco"
+                ]
+            },
+            {
+                "municipio": "Ezequiel Zamora",
+                "capital": "Punta de Mata",
+                "parroquias": [
+                    "El Tejero",
+                    "Punta de Mata"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Temblador",
+                "parroquias": [
+                    "Chaguaramas",
+                    "Las Alhuacas",
+                    "Tabasca",
+                    "Temblador"
+                ]
+            },
+            {
+                "municipio": "Maturín",
+                "capital": "Maturín",
+                "parroquias": [
+                    "Alto de los Godos",
+                    "Boquerón",
+                    "Las Cocuizas",
+                    "La Cruz",
+                    "San Simón",
+                    "El Corozo",
+                    "El Furrial",
+                    "Jusepín",
+                    "La Pica",
+                    "San Vicente"
+                ]
+            },
+            {
+                "municipio": "Piar",
+                "capital": "Aragua de Maturín",
+                "parroquias": [
+                    "Aparicio",
+                    "Aragua de Maturín",
+                    "Chaguamal",
+                    "El Pinto",
+                    "Guanaguana",
+                    "La Toscana",
+                    "Taguaya"
+                ]
+            },
+            {
+                "municipio": "Punceres",
+                "capital": "Quiriquire",
+                "parroquias": [
+                    "Cachipo",
+                    "Quiriquire"
+                ]
+            },
+            {
+                "municipio": "Santa Bárbara",
+                "capital": "Santa Bárbara",
+                "parroquias": [
+                    "Santa Bárbara"
+                ]
+            },
+            {
+                "municipio": "Sotillo",
+                "capital": "Barrancas del Orinoco",
+                "parroquias": [
+                    "Barrancas",
+                    "Los Barrancos de Fajardo"
+                ]
+            },
+            {
+                "municipio": "Uracoa",
+                "capital": "Uracoa",
+                "parroquias": [
+                    "Uracoa"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Aguasay",
+            "Aragua de Maturín",
+            "Barrancas del Orinoco",
+            "Caicara de Maturín",
+            "Caripe",
+            "Caripito",
+            "Chaguaramal",
+            "Chaguaramas Monagas",
+            "El Furrial",
+            "El Tejero",
+            "Jusepín",
+            "La Toscana",
+            "Maturín",
+            "Miraflores",
+            "Punta de Mata",
+            "Quiriquire",
+            "San Antonio de Maturín",
+            "San Vicente Monagas",
+            "Santa Bárbara",
+            "Temblador",
+            "Teresen",
+            "Uracoa"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-O",
+        "estado": "Nueva Esparta",
+        "id_estado": 16,
+        "municipios": [
+            {
+                "municipio": "Antolín del Campo",
+                "capital": "Paraguachí",
+                "parroquias": [
+                    "Antolín del Campo"
+                ]
+            },
+            {
+                "municipio": "Arismendi",
+                "capital": "La Asunción",
+                "parroquias": [
+                    "Arismendi"
+                ]
+            },
+            {
+                "municipio": "Díaz",
+                "capital": "San Juan Bautista",
+                "parroquias": [
+                    "San Juan Bautista",
+                    "Zabala"
+                ]
+            },
+            {
+                "municipio": "García",
+                "capital": "El Valle",
+                "parroquias": [
+                    "García",
+                    "Francisco Fajardo"
+                ]
+            },
+            {
+                "municipio": "Gómez",
+                "capital": "Santa Ana",
+                "parroquias": [
+                    "Bolívar",
+                    "Guevara",
+                    "Cerro de Matasiete",
+                    "Santa Ana",
+                    "Sucre"
+                ]
+            },
+            {
+                "municipio": "Maneiro",
+                "capital": "Pampatar",
+                "parroquias": [
+                    "Aguirre",
+                    "Maneiro"
+                ]
+            },
+            {
+                "municipio": "Marcano",
+                "capital": "Juan Griego",
+                "parroquias": [
+                    "Adrián",
+                    "Juan Griego",
+                    "Yaguaraparo"
+                ]
+            },
+            {
+                "municipio": "Mariño",
+                "capital": "Porlamar",
+                "parroquias": [
+                    "Porlamar"
+                ]
+            },
+            {
+                "municipio": "Península de Macanao",
+                "capital": "Boca de Río",
+                "parroquias": [
+                    "San Francisco de Macanao",
+                    "Boca de Río"
+                ]
+            },
+            {
+                "municipio": "Tubores",
+                "capital": "Punta de Piedras",
+                "parroquias": [
+                    "Tubores",
+                    "Los Barales"
+                ]
+            },
+            {
+                "municipio": "Villalba",
+                "capital": "San Pedro de Coche",
+                "parroquias": [
+                    "Vicente Fuentes",
+                    "Villalba"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Altagracia",
+            "Boca de Pozo",
+            "Boca de Río",
+            "El Espinal",
+            "El Valle del Espíritu Santo",
+            "El Yaque",
+            "Juangriego",
+            "La Asunción",
+            "La Guardia",
+            "Pampatar",
+            "Porlamar",
+            "Puerto Fermín",
+            "Punta de Piedras",
+            "San Francisco de Macanao",
+            "San Juan Bautista",
+            "San Pedro de Coche",
+            "Santa Ana de Nueva Esparta",
+            "Villa Rosa"
+        ]
+    },
+    {
         "iso_3166-2": "VE-W",
         "estado": "Vargas",
         "id_estado": 21,
@@ -776,6 +1198,136 @@
         "ciudades": [
             "Carayaca",
             "Litoral"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-U",
+        "estado": "Yaracuy",
+        "id_estado": 22,
+        "municipios": [
+            {
+                "municipio": "Arístides Bastidas",
+                "capital": "San Pablo",
+                "parroquias": [
+                    "Arístides Bastidas"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Aroa",
+                "parroquias": [
+                    "Bolívar"
+                ]
+            },
+            {
+                "municipio": "Bruzual",
+                "capital": "Chivacoa",
+                "parroquias": [
+                    "Chivacoa",
+                    "Campo Elías"
+                ]
+            },
+            {
+                "municipio": "Cocorote",
+                "capital": "Cocorote",
+                "parroquias": [
+                    "Cocorote"
+                ]
+            },
+            {
+                "municipio": "Independencia",
+                "capital": "Independencia",
+                "parroquias": [
+                    "Independencia"
+                ]
+            },
+            {
+                "municipio": "José Antonio Páez",
+                "capital": "Sabana de Parra",
+                "parroquias": [
+                    "José Antonio Páez"
+                ]
+            },
+            {
+                "municipio": "La Trinidad",
+                "capital": "Boraure",
+                "parroquias": [
+                    "La Trinidad"
+                ]
+            },
+            {
+                "municipio": "Manuel Monge",
+                "capital": "Yumare",
+                "parroquias": [
+                    "Manuel Monge"
+                ]
+            },
+            {
+                "municipio": "Nirgua",
+                "capital": "Nirgua",
+                "parroquias": [
+                    "Salóm",
+                    "Temerla",
+                    "Nirgua"
+                ]
+            },
+            {
+                "municipio": "Peña",
+                "capital": "Yaritagua",
+                "parroquias": [
+                    "San Andrés",
+                    "Yaritagua"
+                ]
+            },
+            {
+                "municipio": "San Felipe",
+                "capital": "San Felipe",
+                "parroquias": [
+                    "San Javier",
+                    "Albarico",
+                    "San Felipe"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Guama",
+                "parroquias": [
+                    "Sucre"
+                ]
+            },
+            {
+                "municipio": "Urachiche",
+                "capital": "Urachiche",
+                "parroquias": [
+                    "Urachiche"
+                ]
+            },
+            {
+                "municipio": "Veroes",
+                "capital": "Farriar",
+                "parroquias": [
+                    "El Guayabo",
+                    "Farriar"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Aroa",
+            "Boraure",
+            "Campo Elías de Yaracuy",
+            "Chivacoa",
+            "Cocorote",
+            "Farriar",
+            "Guama",
+            "Marín",
+            "Nirgua",
+            "Sabana de Parra",
+            "Salom",
+            "San Felipe",
+            "San Pablo de Yaracuy",
+            "Urachiche",
+            "Yaritagua",
+            "Yumare"
         ]
     },
     {
