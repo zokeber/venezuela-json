@@ -79,6 +79,227 @@
         ]
     },
     {
+        "iso_3166-2": "VE-B",
+        "estado": "Anzoátegui",
+        "id_estado": 2,
+        "municipios": [
+            {
+                "municipio": "Anaco",
+                "capital": "Anaco",
+                "parroquias": [
+                    "Anaco",
+                    "San Joaquín"
+                ]
+            },
+            {
+                "municipio": "Aragua",
+                "capital": "Aragua de Barcelona",
+                "parroquias": [
+                    "Cachipo",
+                    "Aragua de Barcelona"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "Barcelona",
+                "parroquias": [
+                    "Bergatín",
+                    "Caigua",
+                    "El Carmen.",
+                    "El Pilar",
+                    "Naricual.",
+                    "San Cristóbal"
+                ]
+            },
+            {
+                "municipio": "Bruzual",
+                "capital": "Clarines",
+                "parroquias": [
+                    "Clarines",
+                    "Guanape",
+                    "Sabana de Uchire"
+                ]
+            },
+            {
+                "municipio": "Cajigal",
+                "capital": "Onoto",
+                "parroquias": [
+                    "Onoto",
+                    "San Pablo"
+                ]
+            },
+            {
+                "municipio": "Carvajal",
+                "capital": "Valle de Guanape",
+                "parroquias": [
+                    "Valle de Guanape",
+                    "Santa Bárbara"
+                ]
+            },
+            {
+                "municipio": "Diego Bautista Urbaneja",
+                "capital": "Lechería",
+                "parroquias": [
+                    "Lechería",
+                    "El Morro"
+                ]
+            },
+            {
+                "municipio": "Freites",
+                "capital": "Cantaura",
+                "parroquias": [
+                    "Cantaura",
+                    "Libertador",
+                    "Santa Rosa",
+                    "Urica"
+                ]
+            },
+            {
+                "municipio": "Guanipa",
+                "capital": "San José de Guanipa",
+                "parroquias": [
+                    "San José de Guanipa"
+                ]
+            },
+            {
+                "municipio": "Guanta",
+                "capital": "Guanta",
+                "parroquias": [
+                    "Guanta",
+                    "Chorrerón"
+                ]
+            },
+            {
+                "municipio": "Independencia",
+                "capital": "Soledad",
+                "parroquias": [
+                    "Mamo",
+                    "Soledad"
+                ]
+            },
+            {
+                "municipio": "Libertad",
+                "capital": "San Mateo",
+                "parroquias": [
+                    "San Mateo",
+                    "El Carito",
+                    "Santa Inés",
+                    "La Romereña"
+                ]
+            },
+            {
+                "municipio": "McGregor",
+                "capital": "El Chaparro",
+                "parroquias": [
+                    "El Chaparro",
+                    "Tomás Alfaro",
+                    "Calatrava"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "Pariaguán",
+                "parroquias": [
+                    "Atapirire",
+                    "Boca del Pao",
+                    "El Pao",
+                    "Pariaguán"
+                ]
+            },
+            {
+                "municipio": "Monagas",
+                "capital": "Mapire",
+                "parroquias": [
+                    "Mapire",
+                    "Piar",
+                    "Santa Clara",
+                    "San Diego de Cabrutica",
+                    "Uverito",
+                    "Zuata"
+                ]
+            },
+            {
+                "municipio": "Peñalver",
+                "capital": "Puerto Píritu",
+                "parroquias": [
+                    "Puerto Píritu",
+                    "San Miguel",
+                    "Sucre"
+                ]
+            },
+            {
+                "municipio": "Píritu",
+                "capital": "Píritu",
+                "parroquias": [
+                    "Píritu",
+                    "San Francisco"
+                ]
+            },
+            {
+                "municipio": "San Juan de Capistrano",
+                "capital": "Boca de Uchire",
+                "parroquias": [
+                    "Boca de Uchire",
+                    "Boca de Chávez"
+                ]
+            },
+            {
+                "municipio": "Santa Ana",
+                "capital": "Santa Ana",
+                "parroquias": [
+                    "Pueblo Nuevo",
+                    "Santa Ana"
+                ]
+            },
+            {
+                "municipio": "Simón Rodríguez",
+                "capital": "El Tigre",
+                "parroquias": [
+                    "Edmundo Barrios",
+                    "Miguel Otero Silva"
+                ]
+            },
+            {
+                "municipio": "Sotillo",
+                "capital": "Puerto La Cruz",
+                "parroquias": [
+                    "Puerto La Cruz",
+                    "Pozuelos"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Anaco",
+            "Aragua de Barcelona",
+            "Barcelona",
+            "Boca de Uchire",
+            "Cantaura",
+            "Clarines",
+            "'El Chaparro",
+            "'El Pao Anzoátegui",
+            "'El Tigre",
+            "El Tigrito",
+            "Guanape",
+            "Guanta",
+            "Lechería",
+            "Onoto",
+            "Pariaguán",
+            "Píritu",
+            "Puerto La Cruz",
+            "Puerto Píritu",
+            "Sabana de Uchire",
+            "San Mateo Anzoátegui",
+            "San Pablo Anzoátegui",
+            "San Tomé",
+            "Santa Ana de Anzoátegui",
+            "Santa Fe Anzoátegui",
+            "Santa Rosa",
+            "Soledad",
+            "Urica",
+            "Valle de Guanape"
+        ]
+    },
+    {
         "iso_3166-2": "VE-C",
         "estado": "Apure",
         "id_estado": 3,
@@ -948,6 +1169,280 @@
         ]
     },
     {
+        "iso_3166-2": "VE-I",
+        "estado": "Falcón",
+        "id_estado": 10,
+        "municipios": [
+            {
+                "municipio": "Acosta",
+                "capital": "San Juan de los Cayos",
+                "parroquias": [
+                    "Capadare",
+                    "La Pastora",
+                    "Libertador",
+                    "San Juan de los Cayos"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "San Luis",
+                "parroquias": [
+                    "Aracua",
+                    "La Peña",
+                    "San Luis"
+                ]
+            },
+            {
+                "municipio": "Buchivacoa",
+                "capital": "Capatárida",
+                "parroquias": [
+                    "Bariro",
+                    "Borojó",
+                    "Capatárida",
+                    "Guajiro",
+                    "Seque",
+                    "Zazárida",
+                    "Valle de Eroa"
+                ]
+            },
+            {
+                "municipio": "Carirubana",
+                "capital": "Punto Fijo",
+                "parroquias": [
+                    "Norte",
+                    "Carirubana",
+                    "Santa Ana",
+                    "Urbana Punta Cardón"
+                ]
+            },
+            {
+                "municipio": "Colina",
+                "capital": "La Vela de Coro",
+                "parroquias": [
+                    "La Vela de Coro",
+                    "Acurigua",
+                    "Guaibacoa",
+                    "Las Calderas",
+                    "Macoruca"
+                ]
+            },
+            {
+                "municipio": "Dabajuro",
+                "capital": "Dabajuro",
+                "parroquias": [
+                    "Dabajuro"
+                ]
+            },
+            {
+                "municipio": "Democracia",
+                "capital": "Pedregal",
+                "parroquias": [
+                    "Agua Clara",
+                    "Avaria",
+                    "Pedregal",
+                    "Piedra Grande",
+                    "Purureche"
+                ]
+            },
+            {
+                "municipio": "Falcón",
+                "capital": "Pueblo Nuevo",
+                "parroquias": [
+                    "Adaure",
+                    "Adícora",
+                    "Baraived",
+                    "Buena Vista",
+                    "Jadacaquiva",
+                    "El Vínculo",
+                    "El Hato",
+                    "Moruy",
+                    "Pueblo Nuevo"
+                ]
+            },
+            {
+                "municipio": "Federación",
+                "capital": "Churuguara",
+                "parroquias": [
+                    "Agua Larga",
+                    "Churuguara",
+                    "El Paují",
+                    "Independencia",
+                    "Mapararí"
+                ]
+            },
+            {
+                "municipio": "Jacura",
+                "capital": "Jacura",
+                "parroquias": [
+                    "Agua Linda",
+                    "Araurima",
+                    "Jacura"
+                ]
+            },
+            {
+                "municipio": "Los Taques",
+                "capital": "Santa Cruz de Los Taques",
+                "parroquias": [
+                    "Los Taques",
+                    "Judibana"
+                ]
+            },
+            {
+                "municipio": "Manaure",
+                "capital": "Yaracal",
+                "parroquias": [
+                    "Cacique Manaure"
+                ]
+            },
+            {
+                "municipio": "Mauroa",
+                "capital": "Mene de Mauroa",
+                "parroquias": [
+                    "Mene de Mauroa",
+                    "San Félix",
+                    "Casigua"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "Santa Ana de Coro",
+                "parroquias": [
+                    "Guzmán Guillermo",
+                    "Mitare",
+                    "Río Seco",
+                    "Sabaneta",
+                    "San Antonio",
+                    "San Gabriel",
+                    "Santa Ana"
+                ]
+            },
+            {
+                "municipio": "Monseñor Iturriza",
+                "capital": "Chichiriviche",
+                "parroquias": [
+                    "Boca del Tocuyo",
+                    "Chichiriviche",
+                    "Tocuyo de la Costa"
+                ]
+            },
+            {
+                "municipio": "Palmasola",
+                "capital": "Palmasola",
+                "parroquias": [
+                    "Palmasola"
+                ]
+            },
+            {
+                "municipio": "Petit",
+                "capital": "Cabure",
+                "parroquias": [
+                    "Cabure",
+                    "Colina",
+                    "Curimagua"
+                ]
+            },
+            {
+                "municipio": "Píritu",
+                "capital": "Píritu",
+                "parroquias": [
+                    "San José de la Costa",
+                    "Píritu"
+                ]
+            },
+            {
+                "municipio": "San Francisco",
+                "capital": "Mirimire",
+                "parroquias": [
+                    "Capital San Francisco"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "La Cruz de Taratara",
+                "parroquias": [
+                    "Sucre",
+                    "Pecaya"
+                ]
+            },
+            {
+                "municipio": "Silva",
+                "capital": "Tucacas",
+                "parroquias": [
+                    "Tucacas",
+                    "Boca de Aroa"
+                ]
+            },
+            {
+                "municipio": "Tocópero",
+                "capital": "Tocópero",
+                "parroquias": [
+                    "Tocópero"
+                ]
+            },
+            {
+                "municipio": "Unión",
+                "capital": "Santa Cruz de Bucaral",
+                "parroquias": [
+                    "El Charal",
+                    "Las Vegas del Tuy",
+                    "Santa Cruz de Bucaral"
+                ]
+            },
+            {
+                "municipio": "Urumaco",
+                "capital": "Urumaco",
+                "parroquias": [
+                    "Bruzual",
+                    "Urumaco"
+                ]
+            },
+            {
+                "municipio": "Zamora",
+                "capital": "Puerto Cumarebo",
+                "parroquias": [
+                    "Puerto Cumarebo",
+                    "La Ciénaga",
+                    "La Soledad",
+                    "Pueblo Cumarebo",
+                    "Zazárida"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Adícora",
+            "Boca de Aroa",
+            "Cabure",
+            "Capadare",
+            "Capatárida",
+            "Chichiriviche",
+            "Churuguara",
+            "Coro",
+            "Cumarebo",
+            "Dabajuro",
+            "Judibana",
+            "La Cruz de Taratara",
+            "La Vela de Coro",
+            "Los Taques",
+            "Maparari",
+            "Mene de Mauroa",
+            "Mirimire",
+            "Pedregal",
+            "Píritu Falcón",
+            "Pueblo Nuevo Falcón",
+            "Puerto Cumarebo",
+            "Punta Cardón",
+            "Punto Fijo",
+            "San Juan de Los Cayos",
+            "San Luis",
+            "Santa Ana Falcón",
+            "Santa Cruz De Bucaral",
+            "Tocopero",
+            "Tocuyo de La Costa",
+            "Tucacas",
+            "Yaracal"
+        ]
+    },
+    {
         "iso_3166-2": "VE-J",
         "estado": "Guárico",
         "id_estado": 11,
@@ -1246,6 +1741,493 @@
             "Sarare",
             "Siquisique",
             "Tintorero"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-L",
+        "estado": "Mérida",
+        "id_estado": 13,
+        "municipios": [
+            {
+                "municipio": "Alberto Adriani",
+                "capital": "El Vigía",
+                "parroquias": [
+                    "Presidente Betancourt",
+                    "Presidente Páez",
+                    "Presidente Rómulo Gallegos",
+                    "Gabriel Picón González",
+                    "Héctor Amable Mora",
+                    "José Nucete Sardi",
+                    "Pulido Méndez"
+                ]
+            },
+            {
+                "municipio": "Andrés Bello",
+                "capital": "La Azulita",
+                "parroquias": [
+                    "La Azulita"
+                ]
+            },
+            {
+                "municipio": "Antonio Pinto Salinas",
+                "capital": "Santa Cruz de Mora",
+                "parroquias": [
+                    "Santa Cruz de Mora",
+                    "Mesa Bolívar",
+                    "Mesa de Las Palmas"
+                ]
+            },
+            {
+                "municipio": "Aricagua",
+                "capital": "Aricagua",
+                "parroquias": [
+                    "Aricagua",
+                    "San Antonio"
+                ]
+            },
+            {
+                "municipio": "Arzobispo Chacón",
+                "capital": "Canaguá",
+                "parroquias": [
+                    "Canagua",
+                    "Capurí",
+                    "Chacantá",
+                    "El Molino",
+                    "Guaimaral",
+                    "Mucutuy",
+                    "Mucuchachí"
+                ]
+            },
+            {
+                "municipio": "Campo Elías",
+                "capital": "Ejido",
+                "parroquias": [
+                    "Fernández Peña",
+                    "Matriz",
+                    "Montalbán",
+                    "Acequias",
+                    "Jají",
+                    "La Mesa",
+                    "San José del Sur"
+                ]
+            },
+            {
+                "municipio": "Caracciolo Parra Olmedo",
+                "capital": "Tucaní",
+                "parroquias": [
+                    "Tucaní",
+                    "Florencio Ramírez"
+                ]
+            },
+            {
+                "municipio": "Cardenal Quintero",
+                "capital": "Santo Domingo",
+                "parroquias": [
+                    "Santo Domingo",
+                    "Las Piedras"
+                ]
+            },
+            {
+                "municipio": "Guaraque",
+                "capital": "Guaraque",
+                "parroquias": [
+                    "Guaraque",
+                    "Mesa de Quintero",
+                    "Río Negro"
+                ]
+            },
+            {
+                "municipio": "Julio César Salas",
+                "capital": "Arapuey",
+                "parroquias": [
+                    "Arapuey",
+                    "Palmira"
+                ]
+            },
+            {
+                "municipio": "Justo Briceño",
+                "capital": "Torondoy",
+                "parroquias": [
+                    "San Cristóbal de Torondoy",
+                    "Torondoy"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Mérida",
+                "parroquias": [
+                    "Antonio Spinetti Dini",
+                    "Arias",
+                    "Caracciolo Parra Pérez",
+                    "Domingo Peña",
+                    "El Llano",
+                    "Gonzalo Picón Febres",
+                    "Jacinto Plaza",
+                    "Juan Rodríguez Suárez",
+                    "Lasso de la Vega",
+                    "Mariano Picón Salas",
+                    "Milla",
+                    "Osuna Rodríguez",
+                    "Sagrario",
+                    "El Morro",
+                    "Los Nevados"
+                ]
+            },
+            {
+                "municipio": "Miranda",
+                "capital": "Timotes",
+                "parroquias": [
+                    "Andrés Eloy Blanco",
+                    "La Venta",
+                    "Piñango",
+                    "Timotes"
+                ]
+            },
+            {
+                "municipio": "Obispo Ramos de Lora",
+                "capital": "Santa Elena de Arenales",
+                "parroquias": [
+                    "Eloy Paredes",
+                    "San Rafael de Alcázar",
+                    "Santa Elena de Arenales"
+                ]
+            },
+            {
+                "municipio": "Padre Noguera",
+                "capital": "Santa María de Caparo",
+                "parroquias": [
+                    "Santa María de Caparo"
+                ]
+            },
+            {
+                "municipio": "Pueblo Llano",
+                "capital": "Pueblo Llano",
+                "parroquias": [
+                    "Pueblo Llano"
+                ]
+            },
+            {
+                "municipio": "Rangel",
+                "capital": "Mucuchíes",
+                "parroquias": [
+                    "Cacute",
+                    "La Toma",
+                    "Mucuchíes",
+                    "Mucurubá",
+                    "San Rafael"
+                ]
+            },
+            {
+                "municipio": "Rivas Dávila",
+                "capital": "Bailadores",
+                "parroquias": [
+                    "Gerónimo Maldonado",
+                    "Bailadores"
+                ]
+            },
+            {
+                "municipio": "Santos Marquina",
+                "capital": "Tabay",
+                "parroquias": [
+                    "Tabay"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Lagunillas",
+                "parroquias": [
+                    "Chiguará",
+                    "Estánquez",
+                    "Lagunillas",
+                    "La Trampa",
+                    "Pueblo Nuevo del Sur",
+                    "San Juan"
+                ]
+            },
+            {
+                "municipio": "Tovar",
+                "capital": "Tovar",
+                "parroquias": [
+                    "El Amparo",
+                    "El Llano",
+                    "San Francisco",
+                    "Tovar"
+                ]
+            },
+            {
+                "municipio": "Tulio Febres Cordero",
+                "capital": "Nueva Bolivia",
+                "parroquias": [
+                    "Independencia",
+                    "María de la Concepción Palacios Blanco",
+                    "Nueva Bolivia",
+                    "Santa Apolonia"
+                ]
+            },
+            {
+                "municipio": "Zea",
+                "capital": "Zea",
+                "parroquias": [
+                    "Caño El Tigre",
+                    "Zea"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Apartaderos Mérida",
+            "Arapuey",
+            "Bailadores",
+            "Caja Seca",
+            "Canaguá",
+            "Chachopo",
+            "Chiguara",
+            "Ejido",
+            "El Vigía",
+            "La Azulita",
+            "La Playa",
+            "Lagunillas Mérida",
+            "Mérida",
+            "Mesa de Bolívar",
+            "Mucuchíes",
+            "Mucujepe",
+            "Mucuruba",
+            "Nueva Bolivia",
+            "Palmarito",
+            "Pueblo Llano",
+            "Santa Cruz de Mora",
+            "Santa Elena de Arenales",
+            "Santo Domingo",
+            "Tabáy",
+            "Timotes",
+            "Torondoy",
+            "Tovar",
+            "Tucani",
+            "Zea"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-M",
+        "estado": "Miranda",
+        "id_estado": 14,
+        "municipios": [
+            {
+                "municipio": "Acevedo",
+                "capital": "Caucagua",
+                "parroquias": [
+                    "Aragüita",
+                    "Arévalo González",
+                    "Capaya",
+                    "Caucagua",
+                    "Panaquire",
+                    "Ribas",
+                    "El Café",
+                    "Marizapa"
+                ]
+            },
+            {
+                "municipio": "Andrés Bello",
+                "capital": "San José de Barlovento",
+                "parroquias": [
+                    "Cumbo",
+                    "San José de Barlovento"
+                ]
+            },
+            {
+                "municipio": "Baruta",
+                "capital": "Baruta",
+                "parroquias": [
+                    "El Cafetal",
+                    "Las Minas",
+                    "Nuestra Señora del Rosario"
+                ]
+            },
+            {
+                "municipio": "Brión",
+                "capital": "Higuerote",
+                "parroquias": [
+                    "Higuerote",
+                    "Curiepe",
+                    "Tacarigua de Brión"
+                ]
+            },
+            {
+                "municipio": "Buroz",
+                "capital": "Mamporal",
+                "parroquias": [
+                    "Mamporal"
+                ]
+            },
+            {
+                "municipio": "Carrizal",
+                "capital": "Carrizal",
+                "parroquias": [
+                    "Carrizal"
+                ]
+            },
+            {
+                "municipio": "Chacao",
+                "capital": "Chacao",
+                "parroquias": [
+                    "Chacao"
+                ]
+            },
+            {
+                "municipio": "Cristóbal Rojas",
+                "capital": "Charallave",
+                "parroquias": [
+                    "Charallave",
+                    "Las Brisas"
+                ]
+            },
+            {
+                "municipio": "El Hatillo",
+                "capital": "Santa Rosalía de Palermo",
+                "parroquias": [
+                    "El Hatillo"
+                ]
+            },
+            {
+                "municipio": "Guaicaipuro",
+                "capital": "Los Teques",
+                "parroquias": [
+                    "Altagracia de la Montaña",
+                    "Cecilio Acosta",
+                    "Los Teques",
+                    "El Jarillo",
+                    "San Pedro.",
+                    "Tácata",
+                    "Paracotos"
+                ]
+            },
+            {
+                "municipio": "Independencia",
+                "capital": "Santa Teresa del Tuy",
+                "parroquias": [
+                    "Cartanal",
+                    "Santa Teresa del Tuy"
+                ]
+            },
+            {
+                "municipio": "Lander",
+                "capital": "Ocumare del Tuy",
+                "parroquias": [
+                    "La Democracia",
+                    "Ocumare del Tuy",
+                    "Santa Bárbara"
+                ]
+            },
+            {
+                "municipio": "Los Salias",
+                "capital": "San Antonio de los Altos",
+                "parroquias": [
+                    "San Antonio de los Altos"
+                ]
+            },
+            {
+                "municipio": "Páez",
+                "capital": "Río Chico",
+                "parroquias": [
+                    "Río Chico",
+                    "El Guapo",
+                    "Tacarigua de la Laguna",
+                    "Paparo",
+                    "San Fernando del Guapo"
+                ]
+            },
+            {
+                "municipio": "Paz Castillo",
+                "capital": "Santa Lucía",
+                "parroquias": [
+                    "Santa Lucía del Tuy"
+                ]
+            },
+            {
+                "municipio": "Pedro Gual",
+                "capital": "Cúpira",
+                "parroquias": [
+                    "Cúpira",
+                    "Machurucuto"
+                ]
+            },
+            {
+                "municipio": "Plaza",
+                "capital": "Guarenas",
+                "parroquias": [
+                    "Guarenas"
+                ]
+            },
+            {
+                "municipio": "Simón Bolívar",
+                "capital": "San Francisco de Yare",
+                "parroquias": [
+                    "San Antonio de Yare",
+                    "San Francisco de Yare"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Petare",
+                "parroquias": [
+                    "Leoncio Martínez",
+                    "Petare",
+                    "Caucagüita",
+                    "Filas de Mariche",
+                    "La Dolorita"
+                ]
+            },
+            {
+                "municipio": "Urdaneta",
+                "capital": "Cúa",
+                "parroquias": [
+                    "Cúa",
+                    "Nueva Cúa"
+                ]
+            },
+            {
+                "municipio": "Zamora",
+                "capital": "Guatire",
+                "parroquias": [
+                    "Guatire",
+                    "Bolívar"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Araguita",
+            "Carrizal",
+            "Caucagua",
+            "Chaguaramas Miranda",
+            "Charallave",
+            "Chirimena",
+            "Chuspa",
+            "Cúa",
+            "Cupira",
+            "Curiepe",
+            "El Guapo",
+            "El Jarillo",
+            "Filas de Mariche",
+            "Guarenas",
+            "Guatire",
+            "Higuerote",
+            "Los Anaucos",
+            "Los Teques",
+            "Ocumare del Tuy",
+            "Panaquire",
+            "Paracotos",
+            "Río Chico",
+            "San Antonio de Los Altos",
+            "San Diego de Los Altos",
+            "San Fernando del Guapo",
+            "San Francisco de Yare",
+            "San José de Los Altos",
+            "San José de Río Chico",
+            "San Pedro de Los Altos",
+            "Santa Lucía",
+            "Santa Teresa",
+            "Tacarigua de La Laguna",
+            "Tacarigua de Mamporal",
+            "Tácata",
+            "Turumo"
         ]
     },
     {
@@ -1843,6 +2825,288 @@
             "Tunapuy",
             "Yaguaraparo",
             "Yoco"
+        ]
+    },
+    {
+        "iso_3166-2": "VE-S",
+        "estado": "Táchira",
+        "id_estado": 19,
+        "municipios": [
+            {
+                "municipio": "Andrés Bello",
+                "capital": "Cordero",
+                "parroquias": [
+                    "Andrés Bello"
+                ]
+            },
+            {
+                "municipio": "Antonio Rómulo Costa",
+                "capital": "Las Mesas",
+                "parroquias": [
+                    "Antonio Rómulo Costa"
+                ]
+            },
+            {
+                "municipio": "Ayacucho",
+                "capital": "Colón",
+                "parroquias": [
+                    "Ayacucho",
+                    "Rivas Berti",
+                    "San Pedro del Río"
+                ]
+            },
+            {
+                "municipio": "Bolívar",
+                "capital": "San Antonio del Táchira",
+                "parroquias": [
+                    "Bolívar",
+                    "Palotal",
+                    "General Juan Vicente Gómez",
+                    "Isaías Medina Angarita"
+                ]
+            },
+            {
+                "municipio": "Cárdenas",
+                "capital": "Táriba",
+                "parroquias": [
+                    "Cárdenas",
+                    "Amenodoro Rangel Lamus",
+                    "La Florida"
+                ]
+            },
+            {
+                "municipio": "Córdoba",
+                "capital": "Santa Ana de Táchira",
+                "parroquias": [
+                    "Córdoba"
+                ]
+            },
+            {
+                "municipio": "Fernández Feo",
+                "capital": "San Rafael del Piñal",
+                "parroquias": [
+                    "Fernández Feo",
+                    "Alberto Adriani",
+                    "Santo Domingo"
+                ]
+            },
+            {
+                "municipio": "Francisco de Miranda",
+                "capital": "San José de Bolívar",
+                "parroquias": [
+                    "Francisco de Miranda"
+                ]
+            },
+            {
+                "municipio": "García de Hevia",
+                "capital": "La Fría",
+                "parroquias": [
+                    "García de Hevia",
+                    "Boca de Grita",
+                    "José Antonio Páez"
+                ]
+            },
+            {
+                "municipio": "Guásimos",
+                "capital": "Palmira",
+                "parroquias": [
+                    "Guásimos"
+                ]
+            },
+            {
+                "municipio": "Independencia",
+                "capital": "Capacho Nuevo",
+                "parroquias": [
+                    "Independencia",
+                    "Juan Germán Roscio",
+                    "Román Cárdenas"
+                ]
+            },
+            {
+                "municipio": "Jáuregui",
+                "capital": "La Grita",
+                "parroquias": [
+                    "Jáuregui",
+                    "Emilio Constantino Guerrero",
+                    "Monseñor Miguel Antonio Salas"
+                ]
+            },
+            {
+                "municipio": "José María Vargas",
+                "capital": "El Cobre",
+                "parroquias": [
+                    "José María Vargas"
+                ]
+            },
+            {
+                "municipio": "Junín",
+                "capital": "Rubio",
+                "parroquias": [
+                    "Junín",    
+                    "La Petrólea",  
+                    "Quinimarí",    
+                    "Bramón"   
+                ]
+            },
+            {
+                "municipio": "Libertad",
+                "capital": "Capacho Viejo",
+                "parroquias": [
+                    "Libertad",
+                    "Cipriano Castro",
+                    "Manuel Felipe Rugeles"
+                ]
+            },
+            {
+                "municipio": "Libertador",
+                "capital": "Abejales",
+                "parroquias": [
+                    "Capital Libertador",
+                    "Doradas",
+                    "Emeterio Ochoa",
+                    "San Joaquín de Navay"
+                ]
+            },
+            {
+                "municipio": "Lobatera",
+                "capital": "Lobatera",
+                "parroquias": [
+                    "Lobatera",
+                    "Constitución"
+                ]
+            },
+            {
+                "municipio": "Michelena",
+                "capital": "Michelena",
+                "parroquias": [
+                    "Michelena"
+                ]
+            },
+            {
+                "municipio": "Panamericano",
+                "capital": "Coloncito",
+                "parroquias": [
+                    "Panamericano",
+                    "La Palmita"
+                ]
+            },
+            {
+                "municipio": "Pedro María Ureña",
+                "capital": "Ureña",
+                "parroquias": [
+                    "Pedro María Ureña",
+                    "Nueva Arcadia"
+                ]
+            },
+            {
+                "municipio": "Rafael Urdaneta",
+                "capital": "Delicias",
+                "parroquias": [
+                    "Delicias",
+                    "Pecaya"
+                ]
+            },
+            {
+                "municipio": "Samuel Darío Maldonado",
+                "capital": "La Tendida",
+                "parroquias": [
+                    "Samuel Darío Maldonado",
+                    "Boconó",
+                    "Hernández"
+                ]
+            },
+            {
+                "municipio": "San Cristóbal",
+                "capital": "San Cristóbal",
+                "parroquias": [
+                    "La Concordia",
+                    "San Juan Bautista",
+                    "Pedro María Morantes",
+                    "San Sebastián",
+                    "Dr. Francisco Romero Lobo"
+                ]
+            },
+            {
+                "municipio": "Seboruco",
+                "capital": "Seboruco",
+                "parroquias": [
+                    "Seboruco"
+                ]
+            },
+            {
+                "municipio": "Simón Rodríguez",
+                "capital": "San Simón",
+                "parroquias": [
+                    "Simón Rodríguez"
+                ]
+            },
+            {
+                "municipio": "Sucre",
+                "capital": "Queniquea",
+                "parroquias": [
+                    "Sucre",
+                    "Eleazar López Contreras",
+                    "San Pablo"
+                ]
+            },
+            {
+                "municipio": "Torbes",
+                "capital": "San Josecito",
+                "parroquias": [
+                    "San José Obrero",
+                    "San Juan Eudes"
+                ]
+            },
+            {
+                "municipio": "Uribante",
+                "capital": "Pregonero",
+                "parroquias": [
+                    "Uribante",
+                    "Cárdenas",
+                    "Juan Pablo Peñalosa",
+                    "Potosí"
+                ]
+            },
+            {
+                "municipio": "San Judas Tadeo",
+                "capital": "Umuquena",
+                "parroquias": [
+                    "San Judas Tadeo"
+                ]
+            }
+        ],
+        "ciudades": [
+            "Abejales",
+            "Borota",
+            "Bramon",
+            "Capacho",
+            "Colón",
+            "Coloncito",
+            "Cordero",
+            "El Cobre",
+            "El Pinal",
+            "Independencia",
+            "La Fría",
+            "La Grita",
+            "La Pedrera",
+            "La Tendida",
+            "Las Delicias",
+            "Las Hernández",
+            "Lobatera",
+            "Michelena",
+            "Palmira",
+            "Pregonero",
+            "Queniquea",
+            "Rubio",
+            "San Antonio del Tachira",
+            "San Cristobal",
+            "San José de Bolívar",
+            "San Josecito",
+            "San Pedro del Río",
+            "Santa Ana Táchira",
+            "Seboruco",
+            "Táriba",
+            "Umuquena"
         ]
     },
     {
