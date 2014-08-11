@@ -1,6 +1,6 @@
 [
     {
-        "iso_3166-2": "VE-X",
+        "iso_31662": "VE-X",
         "estado": "Amazonas",
         "id_estado": 1,
         "municipios": [
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-B",
+        "iso_31662": "VE-B",
         "estado": "Anzoátegui",
         "id_estado": 2,
         "municipios": [
@@ -300,7 +300,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-C",
+        "iso_31662": "VE-C",
         "estado": "Apure",
         "id_estado": 3,
         "municipios": [
@@ -388,7 +388,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-D",
+        "iso_31662": "VE-D",
         "estado": "Aragua",
         "id_estado": 4,
         "municipios": [
@@ -575,7 +575,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-E",
+        "iso_31662": "VE-E",
         "estado": "Barinas",
         "id_estado": 5,
         "municipios": [
@@ -722,7 +722,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-F",
+        "iso_31662": "VE-F",
         "estado": "Bolívar",
         "id_estado": 6,
         "municipios": [
@@ -863,7 +863,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-G",
+        "iso_31662": "VE-G",
         "estado": "Carabobo",
         "id_estado": 7,
         "municipios": [
@@ -1017,7 +1017,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-H",
+        "iso_31662": "VE-H",
         "estado": "Cojedes",
         "id_estado": 8,
         "municipios": [
@@ -1114,7 +1114,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-Y",
+        "iso_31662": "VE-Y",
         "estado": "Delta Amacuro",
         "id_estado": 9,
         "municipios": [
@@ -1169,7 +1169,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-I",
+        "iso_31662": "VE-I",
         "estado": "Falcón",
         "id_estado": 10,
         "municipios": [
@@ -1443,7 +1443,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-J",
+        "iso_31662": "VE-J",
         "estado": "Guárico",
         "id_estado": 11,
         "municipios": [
@@ -1600,7 +1600,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-K",
+        "iso_31662": "VE-K",
         "estado": "Lara",
         "id_estado": 12,
         "municipios": [
@@ -1744,7 +1744,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-L",
+        "iso_31662": "VE-L",
         "estado": "Mérida",
         "id_estado": 13,
         "municipios": [
@@ -2006,7 +2006,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-M",
+        "iso_31662": "VE-M",
         "estado": "Miranda",
         "id_estado": 14,
         "municipios": [
@@ -2231,7 +2231,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-N",
+        "iso_31662": "VE-N",
         "estado": "Monagas",
         "id_estado": 15,
         "municipios": [
@@ -2383,7 +2383,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-O",
+        "iso_31662": "VE-O",
         "estado": "Nueva Esparta",
         "id_estado": 16,
         "municipios": [
@@ -2499,7 +2499,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-P",
+        "iso_31662": "VE-P",
         "estado": "Portuguesa",
         "id_estado": 17,
         "municipios": [
@@ -2651,7 +2651,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-R",
+        "iso_31662": "VE-R",
         "estado": "Sucre",
         "id_estado": 18,
         "municipios": [
@@ -2828,7 +2828,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-S",
+        "iso_31662": "VE-S",
         "estado": "Táchira",
         "id_estado": 19,
         "municipios": [
@@ -3110,7 +3110,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-T",
+        "iso_31662": "VE-T",
         "estado": "Trujillo",
         "id_estado": 20,
         "municipios": [
@@ -3360,7 +3360,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-W",
+        "iso_31662": "VE-W",
         "estado": "Vargas",
         "id_estado": 21,
         "municipios": [
@@ -3388,7 +3388,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-U",
+        "iso_31662": "VE-U",
         "estado": "Yaracuy",
         "id_estado": 22,
         "municipios": [
@@ -3518,7 +3518,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-V",
+        "iso_31662": "VE-V",
         "estado": "Zulia",
         "id_estado": 23,
         "municipios": [
@@ -3806,7 +3806,7 @@
         ]
     },
     {
-        "iso_3166-2": "VE-A",
+        "iso_31662": "VE-A",
         "estado": "Distrito Capital",
         "id_estado": 24,
         "municipios": [
