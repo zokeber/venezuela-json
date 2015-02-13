@@ -37,5 +37,6 @@ mongoimport --jsonArray --db tu_base_de_datos --collection tu_coleccion --type j
 - [Parroquias de Venezuela] (https://es.wikipedia.org/wiki/Categor%C3%ADa:Anexos:Parroquias_de_Venezuela)
 - [Venezuela-SQL] (https://github.com/marydn/venezuela-sql)
 
+# Licencia
 
-
+Licencia [CC BY 4.0] (http://creativecommons.org/licenses/by/4.0/deed.es_ES)
