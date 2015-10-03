@@ -1,0 +1,1873 @@
+[
+    {
+        "iso_31662": "VE-X",
+        "estado": "Amazonas",
+        "capital": "Puerto Ayacucho",
+        "id_estado": 1,
+        "municipios": [
+            {
+                "municipio": "Alto Orinoco",
+                "ciudad": "La Esmeralda",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Atabapo",
+                "ciudad": "San Fernando de Atabapo",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Atures",
+                "ciudad": "Puerto Ayacucho",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Autana",
+                "ciudad": "Isla Ratón",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Manapiare",
+                "ciudad": "San Juan de Manapiare",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Maroa",
+                "ciudad": "Maroa",
+                "codigo_postal": "7101",
+            },
+            {
+                "municipio": "Río Negro",
+                "ciudad": "San Carlos de Río Negro", 
+                "codigo_postal": "7101",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-B",
+        "estado": "Anzoátegui",
+        "capital": "Barcelona",
+        "id_estado": 2,
+        "municipios": [
+            {
+                "municipio": "Anaco",
+                "ciudad": "Anaco",
+                "codigo_postal": "06003",
+            },
+            {
+                "municipio": "Aragua",
+                "ciudad": "Aragua de Barcelona",
+                "codigo_postal": "06002",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Barcelona",
+                "codigo_postal": "06001",
+            },
+            {
+                "municipio": "Bruzual",
+                "ciudad": "Clarines",
+                "codigo_postal": "06008",
+            },
+            {
+                "municipio": "Cajigal",
+                "ciudad": "Onoto",
+                "codigo_postal": "06020",
+            },
+            {
+                "municipio": "Carvajal",
+                "ciudad": "Valle de Guanape",
+                "codigo_postal": "06032",
+            },
+            {
+                "municipio": "Diego Bautista Urbaneja",
+                "ciudad": "Lechería",
+                "codigo_postal": "06016",
+            },
+            {
+                "municipio": "Freites",
+                "ciudad": "Cantaura",
+                "codigo_postal": "06007",
+            },
+            {
+                "municipio": "Guanipa",
+                "ciudad": "San José de Guanipa",
+                "codigo_postal": "06054",
+            },
+            {
+                "municipio": "Guanta",
+                "ciudad": "Guanta",
+                "codigo_postal": "06014",
+            },
+            {
+                "municipio": "Independencia",
+                "ciudad": "Soledad",
+                "codigo_postal": "08013",
+            },
+            {
+                "municipio": "Libertad",
+                "ciudad": "San Mateo",
+                "codigo_postal": "06048",
+            },
+            {
+                "municipio": "McGregor",
+                "ciudad": "El Chaparro",
+                "codigo_postal": "2350",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Pariaguán",
+                "codigo_postal": "06052",
+            },
+            {
+                "municipio": "Monagas",
+                "ciudad": "Mapire",
+                "codigo_postal": "06001",
+            },
+            {
+                "municipio": "Peñalver",
+                "ciudad": "Puerto Píritu",
+                "codigo_postal": "06022",
+            },
+            {
+                "municipio": "Píritu",
+                "ciudad": "Píritu",
+                "codigo_postal": "06022",
+            },
+            {
+                "municipio": "San Juan de Capistrano",
+                "ciudad": "Boca de Uchire",
+                "codigo_postal": "06005",
+            },
+            {
+                "municipio": "Santa Ana",
+                "ciudad": "Santa Ana",
+                "codigo_postal": "06027",
+            },
+            {
+                "municipio": "Simón Rodríguez",
+                "ciudad": "El Tigre",
+                "codigo_postal": "06001",
+            }
+            {
+                "municipio": "Sotillo",
+                "ciudad": "Puerto La Cruz",
+                "codigo_postal": "06023",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-C",
+        "estado": "Apure",
+        "capital": "San Fernando de Apure",
+        "id_estado": 3,
+        "municipios": [
+            {
+                "municipio": "Achaguas",
+                "ciudad": "Achaguas",
+                "codigo_postal": "07002",
+            },
+            {
+                "municipio": "Biruaca",
+                "ciudad": "Biruaca",
+                "codigo_postal": "07007",
+            },
+            {
+                "municipio": "Muñoz",
+                "ciudad": "Bruzual",
+                "codigo_postal": "07005",
+            },
+            {
+                "municipio": "Páez",
+                "ciudad": "Guasdualito",
+                "codigo_postal": "07001",
+            },
+            {
+                "municipio": "Pedro Camejo",
+                "ciudad": "San Juan de Payara",
+                "codigo_postal": "07001",
+            },
+            {
+                "municipio": "Rómulo Gallegos",
+                "ciudad": "Elorza",
+                "codigo_postal": "07011",
+            },
+            {
+                "municipio": "San Fernando",
+                "ciudad": "San Fernando de Apure",
+                "codigo_postal": "07001",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-D",
+        "estado": "Aragua",
+        "capital": "Maracay",
+        "id_estado": 4,
+        "municipios": [
+            {
+                "municipio": "Bolívar",
+                "ciudad": "San Mateo",
+                "codigo_postal": "02120",
+            },
+            {
+                "municipio": "Camatagua",
+                "ciudad": "Camatagua",
+                "codigo_postal": "02335",
+            },
+            {
+                "municipio": "Francisco Linares Alcántara",
+                "ciudad": "Santa Rita",
+                "codigo_postal": "02103",
+            },
+            {
+                "municipio": "Girardot",
+                "ciudad": "Maracay",
+                "codigo_postal": "02104",
+            },
+            {
+                "municipio": "José Ángel Lamas",
+                "ciudad": "Santa Cruz de Aragua",
+                "codigo_postal": "02123",
+            },
+            {
+                "municipio": "José Félix Ribas",
+                "ciudad": "La Victoria",
+                "codigo_postal": "02121",
+            },
+            {
+                "municipio": "José Rafael Revenga",
+                "ciudad": "El Consejo",
+                "codigo_postal": "02118",            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Palo Negro",
+                "codigo_postal": "02117",
+            },
+            {
+                "municipio": "Mario Briceño Iragorry",
+                "ciudad": "El Limón",
+                "codigo_postal": "02105",
+            },
+            {
+                "municipio": "Ocumare de la Costa de Oro",
+                "ciudad": "Ocumare de la Costa",
+                "codigo_postal": "02112",
+            },
+            {
+                "municipio": "San Casimiro",
+                "ciudad": "San Casimiro",
+                "codigo_postal": "02368",
+            },
+            {
+                "municipio": "San Sebastián",
+                "ciudad": "San Sebastián de Los Reyes",
+                "codigo_postal": "02340",
+            },
+            {
+                "municipio": "Santiago Mariño",
+                "ciudad": "Turmero",
+                "codigo_postal": "02115",
+            },
+            {
+                "municipio": "Santos Michelena",
+                "ciudad": "Las Tejerías",
+                "codigo_postal": "02119",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Cagua",
+                "codigo_postal": "02122",
+            },
+            {
+                "municipio": "Tovar",
+                "ciudad": "Colonia Tovar",
+                "codigo_postal": "01030",
+            },
+            {
+                "municipio": "Urdaneta",
+                "ciudad": "Barbacoas",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "Zamora",
+                "ciudad": "Villa de Cura",
+                "codigo_postal": "02126",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-E",
+        "estado": "Barinas",
+        "capital": "Barinas",
+        "id_estado": 5,
+        "municipios": [
+            {
+                "municipio": "Alberto Arvelo Torrealba",
+                "ciudad": "Sabaneta",
+                "codigo_postal": "05224",
+            },
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "ciudad": "El Cantón",
+                "codigo_postal": "05201",
+            },
+            {
+                "municipio": "Antonio José de Sucre",
+                "ciudad": "Socopó",
+                "codigo_postal": "05216",
+            },
+            {
+                "municipio": "Arismendi",
+                "ciudad": "Arismendi",
+                "codigo_postal": "02201",
+            },
+            {
+                "municipio": "Barinas",
+                "ciudad": "Barinas",
+                "codigo_postal": "05201",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Barinitas",
+                "codigo_postal": "05206",
+            },
+            {
+                "municipio": "Cruz Paredes",
+                "ciudad": "Barrancas",
+                "codigo_postal": "05201",
+            },
+            {
+                "municipio": "Ezequiel Zamora",
+                "ciudad": "Santa Bárbara",
+                "codigo_postal": "05210",
+            },
+            {
+                "municipio": "Obispos",
+                "ciudad": "Obispos",
+                "codigo_postal": "05213",
+            },
+            {
+                "municipio": "Pedraza",
+                "ciudad": "Ciudad Bolivia",
+                "codigo_postal": "05201",
+            },
+            {
+                "municipio": "Rojas",
+                "ciudad": "Libertad",
+                "codigo_postal": "05220",
+            },
+            {
+                "municipio": "Sosa",
+                "ciudad": "Ciudad de Nutrias",
+                "codigo_postal": "05201",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-F",
+        "estado": "Bolívar",
+        "capital": "Ciudad Bolívar",
+        "id_estado": 6,
+        "municipios": [
+            {
+                "municipio": "Angostura",
+                "ciudad": "Ciudad Píar",
+                "codigo_postal": "08003",   
+            },
+            {
+                "municipio": "Caroní",
+                "ciudad": "Ciudad Guayana",
+                "codigo_postal": "08050",  
+            },
+            {
+                "municipio": "Cedeño",
+                "ciudad": "Caicara del Orinoco",
+                "codigo_postal": "08007",  
+            },
+            {
+                "municipio": "El Callao",
+                "ciudad": "El Callao",
+                "codigo_postal": "08056",   
+            },
+            {
+                "municipio": "Gran Sabana",
+                "ciudad": "Santa Elena de Uairén",
+                "codigo_postal": "08011",  
+            },
+            {
+                "municipio": "Heres",
+                "ciudad": "Ciudad Bolívar",
+                "codigo_postal": "08001",  
+            },
+            {
+                "municipio": "Píar",
+                "ciudad": "Upata",
+                "codigo_postal": "08052",  
+            },
+            {
+                "municipio": "Roscio",
+                "ciudad": "Guasipati",
+                "codigo_postal": "08050",   
+            },
+            {
+                "municipio": "Sifontes",
+                "ciudad": "El Dorado",
+                "codigo_postal": "08050",   
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Maripa",
+                "codigo_postal": "08009",  
+            },
+            {
+                "municipio": "Padre Pedro Chien",
+                "ciudad": "El Palmar",
+                "codigo_postal": "08054",  
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-G",
+        "estado": "Carabobo",
+        "capital": "Valencia",
+        "id_estado": 7,
+        "municipios": [
+            {
+                "municipio": "Bejuma",
+                "ciudad": "Bejuma",
+                "codigo_postal": "02040",
+            },
+            {
+                "municipio": "Carlos Arvelo",
+                "ciudad": "Güigüe",
+                "codigo_postal": "02010",
+            },
+            {
+                "municipio": "Diego Ibarra",
+                "ciudad": "Mariara",
+                "codigo_postal": "02001",
+            },
+            {
+                "municipio": "Guacara",
+                "ciudad": "Guacara",
+                "codigo_postal": "02015",
+            },
+            {
+                "municipio": "Mora",
+                "ciudad": "Morón",
+                "codigo_postal": "02051",
+            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Tocuyito",
+                "codigo_postal": "02035",
+            },
+            {
+                "municipio": "Los Guayos",
+                "ciudad": "Los Guayos",
+                "codigo_postal": "02003",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Miranda",
+                "codigo_postal": "02041",
+            },
+            {
+                "municipio": "Montalbán",
+                "ciudad": "Montalbán",
+                "codigo_postal": "02042",
+            },
+            {
+                "municipio": "Naguanagua",
+                "ciudad": "Naguanagua",
+                "codigo_postal": "02005",
+            },
+            {
+                "municipio": "Puerto Cabello",
+                "ciudad": "Puerto Cabello",
+                "codigo_postal": "02050",
+            },
+            {
+                "municipio": "San Diego",
+                "ciudad": "San Diego",
+                "codigo_postal": "02006",
+            },
+            {
+                "municipio": "San Joaquín",
+                "ciudad": "San Joaquín",
+                "codigo_postal": "02018",
+            },
+            {
+                "municipio": "Valencia",
+                "ciudad": "Valencia",
+                "codigo_postal": "02001",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-H",
+        "estado": "Cojedes",
+        "capital": "San Carlos",
+        "id_estado": 8,
+        "municipios": [
+            {
+                "municipio": "Anzoátegui",
+                "ciudad": "Cojedes",
+                "codigo_postal": "0209",
+            },
+            {
+                "municipio": "Tinaquillo",
+                "ciudad": "Tinaquillo",
+                "codigo_postal": "0209",
+            },
+            {
+                "municipio": "Girardot",
+                "ciudad": "El Baúl",
+                "codigo_postal": "02213",
+
+            },
+            {
+                "municipio": "Lima Blanco",
+                "ciudad": "Macapo",
+                "codigo_postal": "02207",
+            },
+            {
+                "municipio": "Pao de San Juan Bautista",
+                "ciudad": "El Pao",
+                "codigo_postal": "02214",
+            },
+            {
+                "municipio": "Ricaurte",
+                "ciudad": "Libertad",
+                "codigo_postal": "02216",
+            },
+            {
+                "municipio": "Rómulo Gallegos",
+                "ciudad": "Las Vegas",
+                "codigo_postal": "02204",
+            },
+            {
+                "municipio": "San Carlos",
+                "ciudad": "San Carlos",
+                "codigo_postal": "0201",
+            },
+            {
+                "municipio": "Tinaco",
+                "ciudad": "Tinaco",
+                "codigo_postal": "02206",
+            }
+        ],
+   },
+    {
+        "iso_31662": "VE-Y",
+        "estado": "Delta Amacuro",
+        "capital": "Tucupita",
+        "id_estado": 9,
+        "municipios": [
+            {
+                "municipio": "Antonio Díaz",
+                "ciudad": "Curiapo",
+                "codigo_postal": "06401",
+            },
+            {
+                "municipio": "Casacoima",
+                "ciudad": "Sierra Imataca",
+                "codigo_postal": "06401",
+            },
+            {
+                "municipio": "Pedernales",
+                "ciudad": "Pedernales",
+                "codigo_postal": "06401",
+            },
+            {
+                "municipio": "Tucupita",
+                "ciudad": "Tucupita",
+                "codigo_postal": "06401",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-I",
+        "estado": "Falcón",
+        "capital": "Coro",
+        "id_estado": 10,
+        "municipios": [
+            {
+                "municipio": "Acosta",
+                "ciudad": "San Juan de los Cayos",
+                "codigo_postal": "04154",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "San Luis",
+                "codigo_postal": "04109",
+            },
+            {
+                "municipio": "Buchivacoa",
+                "ciudad": "Capatárida",
+                "codigo_postal": "04118",
+            },
+            {
+                "municipio": "Carirubana",
+                "ciudad": "Punto Fijo",
+                "codigo_postal": "04102",
+            },
+            {
+                "municipio": "Colina",
+                "ciudad": "La Vela de Coro",
+                "codigo_postal": "04132",
+            },
+            {
+                "municipio": "Dabajuro",
+                "ciudad": "Dabajuro",
+                "codigo_postal": "04118",
+            },
+            {
+                "municipio": "Democracia",
+                "ciudad": "Pedregal",
+                "codigo_postal": "04137",
+            },
+            {
+                "municipio": "Falcón",
+                "ciudad": "Pueblo Nuevo",
+                "codigo_postal": "04150",
+            },
+            {
+                "municipio": "Federación",
+                "ciudad": "Churuguara",
+                "codigo_postal": "04152",
+            },
+            {
+                "municipio": "Jacura",
+                "ciudad": "Jacura",
+                "codigo_postal": "04110",
+            },
+            {
+                "municipio": "Los Taques",
+                "ciudad": "Santa Cruz de Los Taques",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Manaure",
+                "ciudad": "Yaracal",
+                "parroquias": [
+                    "Cacique Manaure"
+                ]
+            },
+            {
+                "municipio": "Mauroa",
+                "ciudad": "Mene de Mauroa",
+                "codigo_postal": "04117",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Santa Ana de Coro",
+                "codigo_postal": "04102",
+            },
+            {
+                "municipio": "Monseñor Iturriza",
+                "ciudad": "Chichiriviche",
+                "codigo_postal": "04154",
+            },
+            {
+                "municipio": "Palmasola",
+                "ciudad": "Palmasola",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Petit",
+                "ciudad": "Cabure",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Píritu",
+                "ciudad": "Píritu",
+                "codigo_postal": "04103",
+            },
+            {
+                "municipio": "San Francisco",
+                "ciudad": "Mirimire",
+                "codigo_postal": "04110",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "La Cruz de Taratara",
+                "codigo_postal": "04154",
+            },
+            {
+                "municipio": "Silva",
+                "ciudad": "Tucacas",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Tocópero",
+                "ciudad": "Tocópero",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Unión",
+                "ciudad": "Santa Cruz de Bucaral",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Urumaco",
+                "ciudad": "Urumaco",
+                "codigo_postal": "04101",
+            },
+            {
+                "municipio": "Zamora",
+                "ciudad": "Puerto Cumarebo",
+                "codigo_postal": "04167",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-J",
+        "estado": "Guárico",
+        "capital": "San Juan de Los Morros",
+        "id_estado": 11,
+        "municipios": [
+            {
+                "municipio": "Camaguán",
+                "ciudad": "Camaguán",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "Chaguaramas",
+                "ciudad": "Chaguaramas",
+                "codigo_postal": "02358",
+            },
+            {
+                "municipio": "El Socorro",
+                "ciudad": "El Socorro",
+                "codigo_postal": "02355",
+            },
+            {
+                "municipio": "Infante",
+                "ciudad": "Valle de La Pascua",
+                "codigo_postal": "02350",
+            },
+            {
+                "municipio": "Las Mercedes",
+                "ciudad": "Las Mercedes",
+                "codigo_postal": "02356",
+            },
+            {
+                "municipio": "Mellado",
+                "ciudad": "El Sombrero",
+                "codigo_postal": "02319",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Calabozo",
+                "codigo_postal": "02312",
+            },
+            {
+                "municipio": "Monagas",
+                "ciudad": "Altagracia de Orituco",
+                "codigo_postal": "02320",
+            },
+            {
+                "municipio": "Ortiz",
+                "ciudad": "Ortiz",
+                "codigo_postal": "02302",
+            },
+            {
+                "municipio": "Ribas",
+                "ciudad": "Tucupido",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "Roscio",
+                "ciudad": "San Juan de Los Morros",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "San Gerónimo de Guayabal",
+                "ciudad": "Guayabal",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "San José de Guaribe",
+                "ciudad": "San José de Guaribe",
+                "codigo_postal": "02301",
+            },
+            {
+                "municipio": "Santa María de Ipire",
+                "ciudad": "Santa María de Ipire",
+                "codigo_postal": "02354",
+            },
+            {
+                "municipio": "Zaraza",
+                "ciudad": "Zaraza",
+                "codigo_postal": "02332",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-K",
+        "estado": "Lara",
+        "capital": "Barquisimeto",
+        "id_estado": 12,
+        "municipios": [
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "ciudad": "Sanare",
+                "codigo_postal": "03015",
+            },
+            {
+                "municipio": "Crespo",
+                "ciudad": "Duaca",
+                "codigo_postal": "03025",
+            },
+            {
+                "municipio": "Iribarren",
+                "ciudad": "Barquisimeto",
+                "codigo_postal": "03001",
+            },
+            {
+                "municipio": "Jiménez",
+                "ciudad": "Quibor",
+                "codigo_postal": "03061",
+            },
+            {
+                "municipio": "Morán",
+                "ciudad": "El Tocuyo",
+                "codigo_postal": "03001",
+            },
+            {
+                "municipio": "Palavecino",
+                "ciudad": "Cabudare",
+                "codigo_postal": "03023",
+            },
+            {
+                "municipio": "Simón Planas",
+                "ciudad": "Sarare",
+                "codigo_postal": "03015",
+            },
+            {
+                "municipio": "Torres",
+                "ciudad": "Carora",
+                "codigo_postal": "03050",
+            },
+            {
+                "municipio": "Urdaneta",
+                "ciudad": "Siquisique",
+                "codigo_postal": "03032",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-L",
+        "estado": "Mérida",
+        "capital": "Mérida",
+        "id_estado": 13,
+        "municipios": [
+            {
+                "municipio": "Alberto Adriani",
+                "ciudad": "El Vigía",
+                "codigo_postal": "05145",
+            },
+            {
+                "municipio": "Andrés Bello",
+                "ciudad": "La Azulita",
+                "codigo_postal": "05102",
+            },
+            {
+                "municipio": "Antonio Pinto Salinas",
+                "ciudad": "Santa Cruz de Mora",
+                "codigo_postal": "05142",
+            },
+            {
+                "municipio": "Aricagua",
+                "ciudad": "Aricagua",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Arzobispo Chacón",
+                "ciudad": "Canaguá",
+                "codigo_postal": "05154",
+            },
+            {
+                "municipio": "Campo Elías",
+                "ciudad": "Ejido",
+                "codigo_postal": "05111",
+            },
+            {
+                "municipio": "Caracciolo Parra Olmedo",
+                "ciudad": "Tucaní",
+                "codigo_postal": "05145",
+            },
+            {
+                "municipio": "Cardenal Quintero",
+                "ciudad": "Santo Domingo",
+                "codigo_postal": "05131",
+            },
+            {
+                "municipio": "Guaraque",
+                "ciudad": "Guaraque",
+                "codigo_postal": "05134",
+            },
+            {
+                "municipio": "Julio César Salas",
+                "ciudad": "Arapuey",
+                "codigo_postal": "05145",
+            },
+            {
+                "municipio": "Justo Briceño",
+                "ciudad": "Torondoy",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Mérida",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Timotes",
+                "codigo_postal": "05112",
+            },
+            {
+                "municipio": "Obispo Ramos de Lora",
+                "ciudad": "Santa Elena de Arenales",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Padre Noguera",
+                "ciudad": "Santa María de Caparo",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Pueblo Llano",
+                "ciudad": "Pueblo Llano",
+                "codigo_postal": "05124",
+            },
+            {
+                "municipio": "Rangel",
+                "ciudad": "Mucuchíes",
+                "codigo_postal": "05130",
+            },
+            {
+                "municipio": "Rivas Dávila",
+                "ciudad": "Bailadores",
+                "codigo_postal": "05133",
+            },
+            {
+                "municipio": "Santos Marquina",
+                "ciudad": "Tabay",
+                "codigo_postal": "05116",            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Lagunillas",
+                "codigo_postal": "05138",
+            },
+            {
+                "municipio": "Tovar",
+                "ciudad": "Tovar",
+                "codigo_postal": "05143",
+            },
+            {
+                "municipio": "Tulio Febres Cordero",
+                "ciudad": "Nueva Bolivia",
+                "codigo_postal": "05101",
+            },
+            {
+                "municipio": "Zea",
+                "ciudad": "Zea",
+                "codigo_postal": "05144",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-M",
+        "estado": "Miranda",
+        "capital": "Los Teques",
+        "id_estado": 14,
+        "municipios": [
+            {
+                "municipio": "Acevedo",
+                "ciudad": "Caucagua",
+                "codigo_postal": "01246",
+            },
+            {
+                "municipio": "Andrés Bello",
+                "ciudad": "San José de Barlovento",
+                "codigo_postal": "01235",
+            },
+            {
+                "municipio": "Baruta",
+                "ciudad": "Baruta",
+                "codigo_postal": "01080",
+            },
+            {
+                "municipio": "Brión",
+                "ciudad": "Higuerote",
+                "codigo_postal": "01231",
+            },
+            {
+                "municipio": "Buroz",
+                "ciudad": "Mamporal",
+                "codigo_postal": "01228",
+            },
+            {
+                "municipio": "Carrizal",
+                "ciudad": "Carrizal",
+                "codigo_postal": "01203",
+            },
+            {
+                "municipio": "Chacao",
+                "ciudad": "Chacao",
+                "codigo_postal": "01060",
+            },
+            {
+                "municipio": "Cristóbal Rojas",
+                "ciudad": "Charallave",
+                "codigo_postal": "01210",
+            },
+            {
+                "municipio": "El Hatillo",
+                "ciudad": "Santa Rosalía de Palermo",
+                "codigo_postal": "01083",
+            },
+            {
+                "municipio": "Guaicaipuro",
+                "ciudad": "Los Teques",
+                "codigo_postal": "01201",
+            },
+            {
+                "municipio": "Independencia",
+                "ciudad": "Santa Teresa del Tuy",
+                "codigo_postal": "01215",
+            },
+            {
+                "municipio": "Lander",
+                "ciudad": "Ocumare del Tuy",
+                "codigo_postal": "01209",            },
+            {
+                "municipio": "Los Salias",
+                "ciudad": "San Antonio de los Altos",
+                "codigo_postal": "01204",
+            },
+            {
+                "municipio": "Páez",
+                "ciudad": "Río Chico",
+                "codigo_postal": "01236",
+            },
+            {
+                "municipio": "Paz Castillo",
+                "ciudad": "Santa Lucía",
+                "codigo_postal": "01214",
+            },
+            {
+                "municipio": "Pedro Gual",
+                "ciudad": "Cúpira",
+                "codigo_postal": "01238",
+            },
+            {
+                "municipio": "Plaza",
+                "ciudad": "Guarenas",
+                "codigo_postal": "01220",
+            },
+            {
+                "municipio": "Simón Bolívar",
+                "ciudad": "San Francisco de Yare",
+                "codigo_postal": "01212",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Petare",
+                "codigo_postal": "01073",
+            },
+            {
+                "municipio": "Urdaneta",
+                "ciudad": "Cúa",
+                "codigo_postal": "01211",
+            },
+            {
+                "municipio": "Zamora",
+                "ciudad": "Guatire",
+                "codigo_postal": "01221",
+            }
+        ],
+
+    },
+    {
+        "iso_31662": "VE-N",
+        "estado": "Monagas",
+        "capital": "Maturín",
+        "id_estado": 15,
+        "municipios": [
+            {
+                "municipio": "Acosta",
+                "ciudad": "San Antonio de Capayacuar",
+                "codigo_postal": "06219",
+            },
+            {
+                "municipio": "Aguasay",
+                "ciudad": "Aguasay",
+                "codigo_postal": "06201",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Caripito",
+                "codigo_postal": "06211",
+            },
+            {
+                "municipio": "Caripe",
+                "ciudad": "Caripe",
+                "codigo_postal": "06210",
+            },
+            {
+                "municipio": "Cedeño",
+                "ciudad": "Caicara de Maturín",
+                "codigo_postal": "06209",
+            },
+            {
+                "municipio": "Ezequiel Zamora",
+                "ciudad": "Punta de Mata",
+                "codigo_postal": "06201",
+            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Temblador",
+                "codigo_postal": "06223",
+            },
+            {
+                "municipio": "Maturín",
+                "ciudad": "Maturín",
+                "codigo_postal": "06201",
+            },
+            {
+                "municipio": "Piar",
+                "ciudad": "Aragua de Maturín",
+                "codigo_postal": "06201",
+            },
+            {
+                "municipio": "Punceres",
+                "ciudad": "Quiriquire",
+                "codigo_postal": "06218",
+            },
+            {
+                "municipio": "Santa Bárbara",
+                "ciudad": "Santa Bárbara",
+                "codigo_postal": "06221",
+            },
+            {
+                "municipio": "Sotillo",
+                "ciudad": "Barrancas del Orinoco",
+                "codigo_postal": "06208",
+            },
+            {
+                "municipio": "Uracoa",
+                "ciudad": "Uracoa",
+                "codigo_postal": "06201",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-O",
+        "estado": "Nueva Esparta",
+        "capital": "La Asunción",
+        "id_estado": 16,
+        "municipios": [
+            {
+                "municipio": "Antolín del Campo",
+                "ciudad": "Paraguachí",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Arismendi",
+                "ciudad": "La Asunción",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Díaz",
+                "ciudad": "San Juan Bautista",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "García",
+                "ciudad": "El Valle",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Gómez",
+                "ciudad": "Santa Ana",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Maneiro",
+                "ciudad": "Pampatar",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Marcano",
+                "ciudad": "Juan Griego",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Mariño",
+                "ciudad": "Porlamar",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Península de Macanao",
+                "ciudad": "Boca de Río",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Tubores",
+                "ciudad": "Punta de Piedras",
+                "codigo_postal": "06301",
+            },
+            {
+                "municipio": "Villalba",
+                "ciudad": "San Pedro de Coche",
+                "codigo_postal": "06301",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-P",
+        "estado": "Portuguesa",
+        "capital": "Guanare",
+        "id_estado": 17,
+        "municipios": [
+            {
+                "municipio": "Agua Blanca",
+                "ciudad": "Agua Blanca",
+                "codigo_postal": "03302",
+            },
+            {
+                "municipio": "Araure",
+                "ciudad": "Araure",
+                "codigo_postal": "03303",
+            },
+            {
+                "municipio": "Esteller",
+                "ciudad": "Píritu",
+                "codigo_postal": "03305",
+            },
+            {
+                "municipio": "Guanare",
+                "ciudad": "Guanare",
+                "codigo_postal": "03350",
+            },
+            {
+                "municipio": "Guanarito",
+                "ciudad": "Guanarito",
+                "codigo_postal": "03354",
+            },
+            {
+                "municipio": "Monseñor José Vicente de Unda",
+                "ciudad": "Paraíso de Chabasquén",
+                "codigo_postal": "03357",
+            },
+            {
+                "municipio": "Ospino",
+                "ciudad": "Ospino",
+                "codigo_postal": "03352",
+            },
+            {
+                "municipio": "Páez",
+                "ciudad": "Acarigua",
+                "parroquias": [
+                    "Acarigua",
+                    "Payara",
+                    "Pimpinela",
+                    "Ramón Peraza"
+                ]
+            },
+            {
+                "municipio": "Papelón",
+                "ciudad": "Papelón",
+                "codigo_postal": "03353",
+            },
+            {
+                "municipio": "San Genaro de Boconoíto",
+                "ciudad": "Boconoíto",
+                "codigo_postal": "03355",
+            },
+            {
+                "municipio": "San Rafael de Onoto",
+                "ciudad": "San Rafael de Onoto",
+                "codigo_postal": "03306",
+            },
+            {
+                "municipio": "Santa Rosalía",
+                "ciudad": "El Playón",
+                "codigo_postal": "03350",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Biscucuy",
+                "codigo_postal": "03351",
+            },
+            {
+                "municipio": "Turén",
+                "ciudad": "Villa Bruzual",
+                "codigo_postal": "03309",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-R",
+        "estado": "Sucre",
+        "capital": "Cumaná",
+        "id_estado": 18,
+        "municipios": [
+            {
+                "municipio": "Andrés Eloy Blanco",
+                "ciudad": "Casanay",
+                "codigo_postal": "06168",
+            },
+            {
+                "municipio": "Andrés Mata",
+                "ciudad": "San José de Aerocuar",
+                "codigo_postal": "06167",
+            },
+            {
+                "municipio": "Arismendi",
+                "ciudad": "Río Caribe",
+                "codigo_postal": "06164",
+            },
+            {
+                "municipio": "Benítez",
+                "ciudad": "El Pilar",
+                "codigo_postal": "06152",
+            },
+            {
+                "municipio": "Bermúdez",
+                "ciudad": "Carúpano",
+                "codigo_postal": "06150",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Marigüitar",
+                "codigo_postal": "06107",
+            },
+            {
+                "municipio": "Cajigal",
+                "ciudad": "Yaguaraparo",
+                "codigo_postal": "06155",
+            },
+            {
+                "municipio": "Cruz Salmerón Acosta",
+                "ciudad": "Araya",
+                "codigo_postal": "06102",
+            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Tunapuy",
+                "codigo_postal": "06154",
+            },
+            {
+                "municipio": "Mariño",
+                "ciudad": "Irapa",
+                "codigo_postal": "06156",
+            },
+            {
+                "municipio": "Mejía",
+                "ciudad": "San Antonio del Golfo",
+                "codigo_postal": "06110",
+            },
+            {
+                "municipio": "Montes",
+                "ciudad": "Cumanacoa",
+                "codigo_postal": "06106",
+            },
+            {
+                "municipio": "Ribero",
+                "ciudad": "Cariaco",
+                "codigo_postal": "06126",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Cumaná",
+                "codigo_postal": "06101",
+            },
+            {
+                "municipio": "Valdez",
+                "ciudad": "Güiria",
+                "codigo_postal": "06161",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-S",
+        "estado": "Táchira",
+        "capital": "San Cristóbal",
+        "id_estado": 19,
+        "municipios": [
+            {
+                "municipio": "Andrés Bello",
+                "ciudad": "Cordero",
+                "codigo_postal": "5012",
+            },
+            {
+                "municipio": "Antonio Rómulo Costa",
+                "ciudad": "Las Mesas",
+                "codigo_postal": "5001",
+            },
+            {
+                "municipio": "Ayacucho",
+                "ciudad": "Colón",
+                "codigo_postal": "5003",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "San Antonio del Táchira",
+                "codigo_postal": "5007",
+            },
+            {
+                "municipio": "Cárdenas",
+                "ciudad": "Táriba",
+                "codigo_postal": "5017",
+            },
+            {
+                "municipio": "Córdoba",
+                "ciudad": "Santa Ana de Táchira",
+                "codigo_postal": "5051",
+            },
+            {
+                "municipio": "Fernández Feo",
+                "ciudad": "San Rafael del Piñal",
+                "codigo_postal": "5032",
+            },
+            {
+                "municipio": "Francisco de Miranda",
+                "ciudad": "San José de Bolívar",
+                "codigo_postal": "5054",
+            },
+            {
+                "municipio": "García de Hevia",
+                "ciudad": "La Fría",
+                "codigo_postal": "5020",
+            },
+            {
+                "municipio": "Guásimos",
+                "ciudad": "Palmira",
+                "codigo_postal": "5015"
+            },
+            {
+                "municipio": "Independencia",
+                "ciudad": "Capacho Nuevo",
+                "codigo_postal": "5012",
+            },
+            {
+                "municipio": "Jáuregui",
+                "ciudad": "La Grita",
+                "codigo_postal": "5022",
+            },
+            {
+                "municipio": "José María Vargas",
+                "ciudad": "El Cobre",
+                "codigo_postal": "5021",
+            },
+            {
+                "municipio": "Junín",
+                "ciudad": "Rubio",
+                "codigo_postal": "5030",
+            },
+            {
+                "municipio": "Libertad",
+                "ciudad": "Capacho Viejo",
+                "codigo_postal": "5010",            },
+            {
+                "municipio": "Libertador",
+                "ciudad": "Abejales",
+                "codigo_postal": "5002",
+            },
+            {
+                "municipio": "Lobatera",
+                "ciudad": "Lobatera",
+                "codigo_postal": "5036",
+            },
+            {
+                "municipio": "Michelena",
+                "ciudad": "Michelena",
+                "codigo_postal": "5037",
+            },
+            {
+                "municipio": "Panamericano",
+                "ciudad": "Coloncito",
+                "codigo_postal": "5038",
+            },
+            {
+                "municipio": "Pedro María Ureña",
+                "ciudad": "Ureña",
+                "codigo_postal": "5048",
+            },
+            {
+                "municipio": "Rafael Urdaneta",
+                "ciudad": "Delicias",
+                "codigo_postal": "5030",
+            },
+            {
+                "municipio": "Samuel Darío Maldonado",
+                "ciudad": "La Tendida",
+                "codigo_postal": "5038",
+            },
+            {
+                "municipio": "San Cristóbal",
+                "ciudad": "San Cristóbal",
+                "codigo_postal": "5012",            },
+            {
+                "municipio": "Seboruco",
+                "ciudad": "Seboruco",
+                "codigo_postal": "5027",
+            },
+            {
+                "municipio": "Simón Rodríguez",
+                "ciudad": "San Simón",
+                "codigo_postal": "5038",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Queniquea",
+                "codigo_postal": "5001",
+            },
+            {
+                "municipio": "Torbes",
+                "ciudad": "San Josecito",
+                "codigo_postal": "5001",
+            },
+            {
+                "municipio": "Uribante",
+                "ciudad": "Pregonero",
+                "codigo_postal": "5058",
+            },
+            {
+                "municipio": "San Judas Tadeo",
+                "ciudad": "Umuquena",
+                "codigo_postal": "5038",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-T",
+        "estado": "Trujillo",
+        "capital": "Trujillo",
+        "id_estado": 20,
+        "municipios": [
+            {
+                "municipio": "Andrés Bello",
+                "ciudad": "Santa Isabel",
+                "codigo_postal": "03113",
+            },
+            {
+                "municipio": "Boconó",
+                "ciudad": "Boconó",
+                "codigo_postal": "03103",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Sabana Grande",
+                "codigo_postal": "03101",
+            },
+            {
+                "municipio": "Candelaria",
+                "ciudad": "Chejendé",
+                "codigo_postal": "03124",
+            },
+            {
+                "municipio": "Carache",
+                "ciudad": "Carache",
+                "codigo_postal": "03123",
+            },
+            {
+                "municipio": "Escuque",
+                "ciudad": "Escuque",
+                "codigo_postal": "03105",
+            },
+            {
+                "municipio": "José Felipe Márquez Cañizalez",
+                "ciudad": "El Paradero",
+                "codigo_postal": "03101",
+            },
+            {
+                "municipio": "Juan Vicente Campos Elías",
+                "ciudad": "Campo Elías",
+                "codigo_postal": "03116",
+            },
+            {
+                "municipio": "La Ceiba",
+                "ciudad": "Santa Apolonia",
+                "codigo_postal": "03127",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "El Dividive",
+                "codigo_postal": "03107",
+            },
+            {
+                "municipio": "Monte Carmelo",
+                "ciudad": "Monte Carmelo",
+                "codigo_postal": "03134",
+            },
+            {
+                "municipio": "Motatán",
+                "ciudad": "Motatán",
+                "codigo_postal": "03140",
+            },
+            {
+                "municipio": "Pampán",
+                "ciudad": "Pampán",
+                "codigo_postal": "03151",
+            },
+            {
+                "municipio": "Pampanito",
+                "ciudad": "Pampanito",
+                "codigo_postal": "03152",
+            },
+            {
+                "municipio": "Rafael Rangel",
+                "ciudad": "Betijoque",
+                "codigo_postal": "03104",
+            },
+            {
+                "municipio": "San Rafael de Carvajal",
+                "ciudad": "Carvajal",
+                "codigo_postal": "03102",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Sabana de Mendoza",
+                "codigo_postal": "03110",
+            },
+            {
+                "municipio": "Trujillo",
+                "ciudad": "Trujillo",
+                "codigo_postal": "03101",
+            },
+            {
+                "municipio": "Urdaneta",
+                "ciudad": "La Quebrada",
+                "codigo_postal": "03147",
+            },
+            {
+                "municipio": "Valera",
+                "ciudad": "Valera",
+                "codigo_postal": "03101",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-W",
+        "estado": "Vargas",
+        "capital": "La Guaira",
+        "id_estado": 21,
+        "municipios": [
+            {
+                "municipio": "Vargas",
+                "ciudad": "Vargas",
+                "codigo_postal": "01160",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-U",
+        "estado": "Yaracuy",
+        "capital": "San Felipe",
+        "id_estado": 22,
+        "municipios": [
+            {
+                "municipio": "Arístides Bastidas",
+                "ciudad": "San Pablo",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Bolívar",
+                "ciudad": "Aroa",
+                "codigo_postal": "03210",
+            },
+            {
+                "municipio": "Bruzual",
+                "ciudad": "Chivacoa",
+                "codigo_postal": "03202",
+            },
+            {
+                "municipio": "Cocorote",
+                "ciudad": "Cocorote",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Independencia",
+                "ciudad": "Independencia",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "José Antonio Páez",
+                "ciudad": "Sabana de Parra",
+                "codigo_postal": "03211",
+            },
+            {
+                "municipio": "La Trinidad",
+                "ciudad": "Boraure",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Manuel Monge",
+                "ciudad": "Yumare",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Nirgua",
+                "ciudad": "Nirgua",
+                "codigo_postal": "03205",
+            },
+            {
+                "municipio": "Peña",
+                "ciudad": "Yaritagua",
+                "codigo_postal": "03203",
+            },
+            {
+                "municipio": "San Felipe",
+                "ciudad": "San Felipe",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Guama",
+                "codigo_postal": "03207",
+            },
+            {
+                "municipio": "Urachiche",
+                "ciudad": "Urachiche",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Veroes",
+                "ciudad": "Farriar",
+                "codigo_postal": "03222",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-V",
+        "estado": "Zulia",
+        "capital": "Maracaibo",
+        "id_estado": 23,
+        "municipios": [
+            {
+                "municipio": "Almirante Padilla",
+                "ciudad": "El Toro",
+                "codigo_postal": "04001",
+            },
+            {
+                "municipio": "Baralt",
+                "ciudad": "San Timoteo",
+                "codigo_postal": "04018",
+            },
+            {
+                "municipio": "Cabimas",
+                "ciudad": "Cabimas",
+                "codigo_postal": "04013",
+            },
+            {
+                "municipio": "Catatumbo",
+                "ciudad": "Encontrados",
+                "codigo_postal": "04001",
+            },
+            {
+                "municipio": "Colón",
+                "ciudad": "San Carlos del Zulia",
+                "codigo_postal": "04001",
+            },
+            {
+                "municipio": "Francisco Javier Pulgar",
+                "ciudad": "Pueblo Nuevo - El Chivo",
+                "codigo_postal": "04015",
+            },
+            {
+                "municipio": "Páez",
+                "ciudad": "Sinamaica",
+                "codigo_postal": "04046",
+            },
+            {
+                "municipio": "Jesús Enrique Lossada",
+                "ciudad": "La Concepción",
+                "codigo_postal": "04021",
+            },
+            {
+                "municipio": "Jesús María Semprún",
+                "ciudad": "Casigua - El Cubo",
+                "codigo_postal": "04001",
+            },
+            {
+                "municipio": "La Cañada de Urdaneta",
+                "ciudad": "La Concepción",
+                "codigo_postal": "04032",
+            },
+            {
+                "municipio": "Lagunillas",
+                "ciudad": "Ciudad Ojeda",
+                "codigo_postal": "04019",
+            },
+            {
+                "municipio": "Machiques de Perijá",
+                "ciudad": "Machiques",
+                "codigo_postal": "03201",
+            },
+            {
+                "municipio": "Mara",
+                "ciudad": "San Rafael de El Moján",
+                "codigo_postal": "04021",
+            },
+            {
+                "municipio": "Maracaibo",
+                "ciudad": "Maracaibo",
+                "codigo_postal": "04001",
+            },
+            {
+                "municipio": "Miranda",
+                "ciudad": "Los Puertos de Altagracia",
+                "codigo_postal": "04036",
+            },
+            {
+                "municipio": "Rosario de Perijá",
+                "ciudad": "La Villa del Rosario",
+                "codigo_postal": "04047",
+            },
+            {
+                "municipio": "San Francisco",
+                "ciudad": "San Francisco",
+                "codigo_postal": "04004",
+            },
+            {
+                "municipio": "Santa Rita",
+                "ciudad": "Santa Rita",
+                "codigo_postal": "04020",
+            },
+            {
+                "municipio": "Simón Bolívar",
+                "ciudad": "Tía Juana",
+                "codigo_postal": "04017",
+            },
+            {
+                "municipio": "Sucre",
+                "ciudad": "Bobures",
+                "codigo_postal": "03158",
+            },
+            {
+                "municipio": "Valmore Rodríguez",
+                "ciudad": "Bachaquero",
+                "codigo_postal": "04014",
+            }
+        ],
+    },
+    {
+        "iso_31662": "VE-A",
+        "estado": "Distrito ciudad",
+        "capital": "Caracas",
+        "id_estado": 24,
+        "municipios": [
+            {
+                "municipio": "Libertador",
+                "ciudad": "Caracas",
+                "codigo_postal": "01010",        
+            }
+        ]
+    }
+]
